@@ -45,9 +45,21 @@ img {
     height: 350px;
 }
 
+/* --- HOMEPAGE IMAGES --- */
+.image-home-1 {
+    background: url('../Images_Brazuca/Home-section1full.jpg') fixed;
+    background-size: 100% 100%;
+}
+
 /* --- WINKELS OVERZICHT IMAGES --- */
 .image-winkels-1 {
     background: url('../Images_Brazuca/Brazuca-rotterdamfull2.jpg') fixed;
+    background-size: 100% 100%;
+}
+
+/* --- FRUIT OVERZICHT IMAGES */
+.image-fruitsappen-1 {
+    background: url('../Images_Brazuca/fruitsappen-overzichtfull.jpg') fixed;
     background-size: 100% 100%;
 }
 
@@ -230,6 +242,13 @@ img {
 
 /* --- TABLET --- */
 @media (max-width: 1024px) {
+
+    /* --- HOMEPAGE IMAGES --- */
+    .image-home-1 {
+        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background-size: 100% 100%;
+    }
+
     /* --- TABLET COFFEE IMAGES --- */
     .image-coffee-1 {
         background: url('../Images_Brazuca/cafetorrado-tablet.jpg') fixed;
@@ -241,7 +260,13 @@ img {
         background-size: 100% 100%;
     }
 
-    /* --- --- */
+    /* ---  --- */
+    .image-fruitsappen-1 {
+        background: url('../Images_Brazuca/fruitsappenoverzicht-tablet.jpg') fixed;
+        background-size: 100% 100%;
+    }
+
+    /* ---  --- */
     .image-winkels-1 {
         background: url('../Images_Brazuca/Brazuca-rotterdam-tablet.jpg') fixed;
         background-size: 100% 100%;
@@ -308,10 +333,17 @@ img {
 
 /* --- MOBILE --- */
 @media (max-width: 600px) {
+
+    /* --- HOMEPAGE IMAGES --- */
+    .image-home-1 {
+        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background-size: 100% 100%;
+    }
+
     /* --- MOBILE COFFEE IMAGES --- */
     .image-coffee-1 {
         background: url('../Images_Brazuca/cafetorrado-mobile.jpg') fixed;
-        background-size: 100%;
+        background-size: 100% 100%;
     }
 
     .image-coffee-3 {
@@ -319,13 +351,19 @@ img {
         background-size: 100% 100%;
     }
 
-    /* --- --- */
+    /* ---  --- */
+    .image-fruitsappen-1 {
+        background: url('../Images_Brazuca/fruistappenoverzicht-mobile.jpg') fixed;
+        background-size: 100% 100%;
+    }
+
+    /* ---  --- */
     .image-winkels-1 {
         background: url('../Images_Brazuca/Brazuca-rotterdam-mobile.jpg') fixed;
         background-size: 100% 100%;
     }
     
-    /* --- --- */
+    /* ---  --- */
     .image-açaibowl-1 {
         background: url('../Images_Brazuca/bowl-background-mobile.jpg') fixed;
         background-size: 100% 100%;

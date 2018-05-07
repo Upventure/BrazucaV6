@@ -7,6 +7,7 @@
 <div class="section-1 image-fruitsappen-1">
     <div class="mask-layer mask-layer-2 mask-layer-fruit-page">
         <div class="content-hoofd-foto">
+            <h1 style="font-size:40px;">Brazuca Verse fruitsappen</h1>
             <p style="font-size:25px; margin-top:5px;" class="ondertitel">Mandarijnsap</p>
         </div>
     </div>
