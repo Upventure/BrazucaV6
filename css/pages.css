@@ -425,24 +425,24 @@ a.button:hover {
         text-align: center;
         padding: 10px 0 10px 0;
     }
+
     .advertisements {
         width: 95%;
     }
-.advertisements-winkels{
-    width: 95%;
-}
 
-
-
+    .advertisements-winkels {
+        width: 95%;
+    }
 }
 
 @media (max-width: 480px) {
     .advertisements {
         width: 100%;
     }
-.advertisements-winkels{
-          width: 80%;
-}
+
+    .advertisements-winkels {
+        width: 80%;
+    }
 
     .referal-advertisement {
         text-align: center;
@@ -457,10 +457,9 @@ a.button:hover {
 /* MULTIPLE ITEMS */
 
 .multiple-items-standard-container {
-    background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/videoblocks-vector-art-deco-pattern-background_ba87pomzw_thumbnail-full01.png');
+    /*background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/videoblocks-vector-art-deco-pattern-background_ba87pomzw_thumbnail-full01.png');*/
 
     background-image: url('../Images_Brazuca/Brazuca-rotterdam-tablet.jpg');
-
 
     background-size: cover;
 }
@@ -471,7 +470,6 @@ a.button:hover {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-
 }
 
 .item-standard{
@@ -482,13 +480,15 @@ a.button:hover {
     text-align: center;
 }
 
-.item-standard-border{
-  width: 290px;
-  margin: 15px;
-  background: rgb(4, 98, 33);
-  color: white;
-  text-align: center;
-
+.item-standard-border {
+    width: 290px;
+    margin: 15px;
+    /*background: rgb(4, 98, 33);*/
+    backgrond: white;
+    /*color: white;*/
+    color: black;
+    text-align: center;
+    margin: 10px;
 }
 
 

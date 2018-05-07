@@ -3,55 +3,6 @@
 ?>
 <?php get_header(); ?>
 
-
-<style>
-
-
-
-
-
-
-.item-standard-border{
-  /* background-color: rgba(230, 228, 224, 0.97); */
-    background-color: white;
-    color: black;
-  /* width: 325px; */
-  margin: 10px;
-}
-.wrapper-white-sections {
-max-width: 1100px;
-
-
-/* linear-gradient(); */
-}
-.section-home-page{
-border: none;
-}
-
-.section-home-page{
-  /* background-color: #6BAD6F; */
-  margin: auto;
-}
-
-
-.item-standard{
-  border: 10px solid white;
-/* url('localhost/Images_Brazuca/AdobeStock_76901866_Preview.svg'); */
-/* border-image:  url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round;
-/* border-image: url(border.png) */
-
-
-
-
-
-
-  border-radius: 8px;
-}
-
-
-</style>
-
-
 <!-- <div class="background-image2 back-home">
     <div class="mask-layer">
         <div class="content-hoofd-foto">
@@ -166,7 +117,7 @@ border: none;
                               <h2>Amsterdam Rijnstraat</h2>
                                 <div class="image-standard">
                                     <a href="localhost/rijnstraat">
-        <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-rotterdam-tablet.jpg">
+                                        <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-rotterdam-tablet.jpg">
                                     </a>
                                 </div>
                                 <div class="content-standard" style="padding: 9px 9px;">
@@ -251,13 +202,13 @@ border: none;
                             </div> -->
 
 
-
                         </div>
                     </div>
-
+                </div>
             </div>
         </div>
     </div>
+</div>
 
 
 
