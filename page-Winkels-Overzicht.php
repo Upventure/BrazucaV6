@@ -143,8 +143,4 @@
     </div>
 </div>
 
-
-
-
-
-<?php get_template_part("footer", "main"); get_footer_main(); ?>
+<?php get_footer(); ?>

@@ -191,5 +191,5 @@
 </div>
 
 <div style="background-color:rgba(4, 98, 33)">
-<?php get_footer(''); ?>
+<?php get_footer(); ?>
 </div>

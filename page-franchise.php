@@ -157,11 +157,11 @@
                             </div>
                         </div>
                     </div>
-
+                </div>
             </div>
         </div>
     </div>
-
+</div>
 
 
 
@@ -173,4 +173,4 @@
     <h2><br></h2>
 </div>
 
-<?php get_template_part("footer", "main"); get_footer_main(); ?>
+<?php get_footer() ?>

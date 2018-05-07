@@ -157,4 +157,4 @@ Duurzaamheid en het welzijn van de mensen die in deze sector werken worden dan o
 
     <!-- </div> -->
 
-<?php get_footer(''); ?>
+<?php get_footer(); ?>

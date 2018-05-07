@@ -321,4 +321,4 @@ Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
 </div>
 
 </div>
-<!-- <?php get_footer(''); ?> -->
+    <?php get_footer(); ?>
