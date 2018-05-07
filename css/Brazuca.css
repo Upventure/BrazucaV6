@@ -725,7 +725,7 @@ linear-gradient(rgba(255, 255, 255, 0.93), rgba(255, 255, 255, 0.93), rgba(255, 
 
 .establishments {
     flex: 1;
-    min-width: 350px;
+    min-width: 300px;
     border-left: 1px solid rgba(169, 169, 169, 0.2);
     border-right: 1px solid rgba(169, 169, 169, 0.2);
 }
