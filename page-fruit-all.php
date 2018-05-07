@@ -2,7 +2,7 @@
 /* Template Name: (Fruit)All */
 ?>
 <?php get_header('');?>
-   <div class="background-image2 back-home slider-coffee background-image-Tagerina" style="height:500px; margin-top:20px;" >
+   <div class="background-image2 back-home slider-coffee background-image-Tagerina" style="height:500px;" >
 <div class="mask-layer mask-layer-2 mask-layer-fruit-page">
      <div class="content-hoofd-foto">
 
