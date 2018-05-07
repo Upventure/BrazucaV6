@@ -47,7 +47,7 @@ img {
 
 /* --- WINKELS OVERZICHT IMAGES --- */
 .image-winkels-1 {
-    background: url('../Images_Brazuca/Brazuca-rotterdam.jpg');
+    background: url('../Images_Brazuca/Brazuca-rotterdamfull2.jpg');
     background-size: 100% 100%;
 }
 
@@ -262,7 +262,7 @@ img {
 @media (max-width: 600px) {
     /* --- --- */
     .image-winkels-1 {
-        background: url('../Images_Brazuca/Brazuca-rotterdam.jpg');
+        background: url('../Images_Brazuca/Brazuca-rotterdam-mobile.jpg');
         background-size: 100% 100%;
     }
     

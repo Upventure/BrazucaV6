@@ -25,97 +25,33 @@
 <?php endwhile; else : ?>
     <p> no content found</p>
 <?php endif; ?>
+
 <div class="section-1 image-winkels-1" style="">
     <div class="mask-layer mask-layer-home mask-layer-2">
         <div class="content-hoofd-foto">
-            <h1 style="font-size:40px;">Brazuca Coffee</h1>
+            <h1 style="font-size:40px;">Brazuca winkels</h1>
             <!-- <div class="line-white"></div>
             <p style="font-size:30px;">" Tangerina Sap"</p> -->
-            <p style="font-size:25px; margin-top: 5px;" class="ondertitel"></p>
+            <p style="font-size:25px; margin-top: 5px;" class="ondertitel">Bezoek de brazuca winkel bij u in de buurt</p>
         </div>
     </div>
 </div>
-<!-- MULTIPLE ITEMS TESTING -->
 
-<!-- <div class="referal-advertisement-div">
-
-    <div class="multiple-items-standard">
-        <div class="item-standard">
-            <div class="image-standard">
-                <a href="localhost/rijnstraat"><img src="../wp-content/themes/Brazuca/Images_Brazuca/879-2.JPG"></a>
-            </div>
-            <div class="content-standard">
-                <h4 style="text-align: center; margin-top: 5px;">Rijnstraat 22, Amsterdam</h4>
-                <p>
-                    Dingen die een omschrijving geven van de locatie.
-                </p>
-            </div>
-            <div class="flex-active">
-                <a class="button-standard" href="localhost/rijnstraat">Naar deze vestiging</a>
-            </div>
-        </div>
-        <div class="item-standard">
-            <div class="image-standard">
-                <a href="localhost/ferdinand-bolstraat"><img src="../wp-content/themes/Brazuca/Images_Brazuca/879-2.JPG"></a>
-            </div>
-            <div class="content-standard">
-                <h4 style="text-align: center; margin-top: 5px;">Ferdinand Bolstraat 113 H, Amsterdam</h4>
-                <p>
-                    Dingen die een omschrijving geven van de locatie.
-                </p>
-            </div>
-            <div class="flex-active">
-                <a class="button-standard" href="localhost/ferdinand-bolstraat">Naar deze vestiging</a>
-            </div>
-        </div>
-        <div class="item-standard">
-            <div class="image-standard">
-                <a href="localhost/markthal"><img src="../wp-content/themes/Brazuca/Images_Brazuca/879-2.JPG"></a>
-            </div>
-            <div class="content-standard">
-                <h4 style="text-align: center; margin-top: 5px;">Markthal, Rotterdam</h4>
-                <p>
-                    Dingen die een omschrijving geven van de locatie.
-                </p>
-            </div>
-            <div class="flex-active">
-                <a class="button-standard" href="localhost/markthal">Naar deze vestiging</a>
-            </div>
-        </div>
-        <div class="item-standard">
-            <div class="image-standard">
-                <a href="localhost/julianaplein"><img src="../wp-content/themes/Brazuca/Images_Brazuca/879-2.JPG"></a>
-            </div>
-            <div class="content-standard">
-                <h4 style="text-align: center; margin-top: 5px;">Julianaplein 4, Amsterdam</h4>
-                <p>
-                    Dingen die een omschrijving geven van de locatie.
-                </p>
-            </div>
-
-            <div class="flex-active">
-                <a class="button-standard" href="localhost/julianaplein">Naar deze vestiging</a>
-            </div>
-        </div>
-    </div>
-</div> -->
-
-<div style="margin-top: 100px;"></div>
 <div class="wrapper-top-section" style="border-top:  6px solid rgb(232, 237, 230);">
     <div class="advertisements-winkels">
         <div class="section-winkel-page light winkel-achtergrond" style="padding: 0">
             <div style="background: rgba(255, 255, 255, 0.90); padding-top: 40px; padding-bottom: 20px;">
                 <div class="flex wrappper-winkel-sections">
                     <div class="wrapper-white-section-section-50-50 home-section">
-                        <!-- <div class="image-white-section"></div>       -->
+                        <!-- <div class="image-white-section"></div> -->
 
                         <!-- MULTIPLE ITEMS TESTING -->
 
                         <div class="referal-advertisement-div-winkels">
 
                             <div class="winkels-overzicht-header">
-                                <h1>Brazuca winkels</h1>
-                                <p>Bezoek de brazuca winkel bij u in de buurt</p>
+                                <h1>De winkels van Brazuca</h1>
+                                <p>Selecteer een winkel voor meer informatie</p>
                             </div>
 
                             <div class="multiple-items-standard">
