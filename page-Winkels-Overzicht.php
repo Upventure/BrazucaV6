@@ -37,7 +37,7 @@
     </div>
 </div>
 
-<div class="wrapper-top-section" style="border-top:  6px solid rgb(232, 237, 230);">
+<div class="wrapper-top-section" style="border-top: 6px solid rgb(232, 237, 230);">
     <div class="advertisements-winkels">
         <div class="section-winkel-page light winkel-achtergrond" style="padding: 0">
             <div style="background: rgba(255, 255, 255, 0.90); padding-top: 40px; padding-bottom: 20px;">
@@ -118,24 +118,6 @@
                                         <br>
                                     </a>
                                 </div>
-
-
-                                <!-- <div class="item-standard">
-                                    <div class="image-standard">
-                                        <a href="localhost/julianaplein"><img src="../wp-content/themes/Brazuca/Images_Brazuca/879-2.JPG"></a>
-                                    </div>
-                                    <div class="content-standard">
-                                        <h4 style="text-align: center; margin-top: 5px;">Julianaplein 4, Amsterdam</h4>
-                                        <p>
-                                            Dingen die een omschrijving geven van de locatie.
-                                        </p>
-                                    </div>
-                                    <div class="flex-active">
-                                        <a class="button-standard" href="localhost/julianaplein">Naar deze vestiging</a>
-                                    </div>
-                                </div> -->
-
-
                             </div>
                         </div>
                     </div>

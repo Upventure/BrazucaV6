@@ -73,7 +73,7 @@
                 <br><br>
             </p>
         </div>
-        <div class="sectie-1-image-section schrink sectie-1-background-image image-coffee-section-3"></div>
+        <div class="sectie-1-image-section image-coffee-4"></div>
     </div>
 </div>
 
