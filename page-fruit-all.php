@@ -2,17 +2,16 @@
 /* Template Name: (Fruit)All */
 ?>
 <?php get_header('');?>
-   <div class="background-image2 back-home slider-coffee background-image-Tagerina" style="height:500px;" >
-<div class="mask-layer mask-layer-2 mask-layer-fruit-page">
-     <div class="content-hoofd-foto">
 
-        <h1 style="font-size:40px;">Brazuca Verse fruitsappen </h1>
 
-       <p style="font-size:25px; margin-top:5px;" class="ondertitel">Mandarijnsap</p>
-       </div>
+<div class="section-1 image-fruitsappen-1">
+    <div class="mask-layer mask-layer-2 mask-layer-fruit-page">
+        <div class="content-hoofd-foto">
+            <p style="font-size:25px; margin-top:5px;" class="ondertitel">Mandarijnsap</p>
+        </div>
+    </div>
+</div>
 
-     </div>
-       </div>
 
 
 

@@ -7,7 +7,7 @@
 <?php get_header('');?>
 
 
-<div class="background-image2  background-image-home-top" style="">
+<div class="section-1 image-home-1">
     <div class="mask-layer mask-layer-home mask-layer-2">
         <div class="content-hoofd-foto">
             <h1 style="font-size:40px;">Brazuca Coffee </h1>
@@ -47,53 +47,35 @@
 
 
 <div class="wrapper-section-bottom" style="background-color:rgba();">
-<div class="advertisements">
+    <div class="advertisements">
         <div class='referal-advertisement acai-full-section'>
             <div class='content mask-layer' style="background-color:rgba(37, 35, 38, 0.36);">
                 <!-- <div class=''><h1><br></h1></div> -->
-
-
-                    <div style='width: 100%; background-color:rgba(160, 141, 161, 0.29); height:75px;'>
-<h1 style="color:white; text-align:center;">  Açai Bowl</h1>
-                    </div>
-                                <div style='width: 100%; background-color:;'></div>
+                <div style='width: 100%; background-color:rgba(160, 141, 161, 0.29); height:75px;'>
+                    <h1 style="color:white; text-align:center;">  Açai Bowl</h1>
+                </div>
+                <div style='width: 100%; background-color:;'></div>
                 <div class='summary summary-extra' style="border: solid  2px whitesmoke">
-                  <!-- <h1 style="color:white">  Açai Palm</h1> -->
-                  <p style="color:white">
-                    Açai bowl is nu razend populair. Een mooi opgemaakt kommetje boordevol vitamines. Acht jaar geleden maakten wij als éérste van Amsterdam deze overheerlijke açai bowl, overgevlogen uit Brazilië.
+                    <!-- <h1 style="color:white">  Açai Palm</h1> -->
+                    <p style="color:white">
+                        Açai bowl is nu razend populair. Een mooi opgemaakt kommetje boordevol vitamines. Acht jaar geleden maakten wij als éérste van Amsterdam deze overheerlijke açai bowl, overgevlogen uit Brazilië.
 
-                    Inmiddels zijn onze Açai Bowl gerechten een begrip geworden.
-                    In de meeste van onze winkels kunt het gerecht bestellen als ontbijt, lunch of maaltijd.
-          <br><br>
-                  De açaipalm groeit aan de oevers van de rivieren in de het Amazonegebied. Van de vruchten wordt een pulp gemaakt en ingevroren. Dit is de basis voor het gerecht, met muesli, vers fruit en guaraná wordt dit açaí na tigela (letterlijk açaí in de kom) genoemd. Het is een gerecht dat veel gegeten wordt door sporters, in Brazilië erg populair onder de surfers en wordt gewaardeerd om zijn stimulerende eigenschappen, vergelijkbaar met die in koffie of energiedranken. Açai helpt ook bij het verwijderen van afvalstoffen uit het lichaam.
-                  <br><br>
-                  Açai is bij ons ook verkrijgbaar als sap, op basis van appelsap of yoghurt.
-                  Onze açaí is 100% biologisch!
-                  Laat je verrassen door de unieke smaak van de açai, die bovendien ook erg goed voor de gezondheid is.
-
-
-
-    <br><br>
-
-
-
- </p>
-
-</div>
-
-
-
-
-
-
-
-
-
-                     <div style='width: 100%; background-color:rgba(160, 141, 161, 0.29); height:55px;'>
-                <!-- <div class='hyperlink-center'><a href='localhost' class='button green-brazuca'><b>lees verder</b></a></div> -->
-                <!-- <div style='width: 100%; background-color:#E6DECA; height:75px;'></div> -->
-                                                <!-- <div style='width: 100%; background-color:; height:35px;'></div> -->
-            </div>
+                        Inmiddels zijn onze Açai Bowl gerechten een begrip geworden.
+                        In de meeste van onze winkels kunt het gerecht bestellen als ontbijt, lunch of maaltijd.
+                        <br><br>
+                        De açaipalm groeit aan de oevers van de rivieren in de het Amazonegebied. Van de vruchten wordt een pulp gemaakt en ingevroren. Dit is de basis voor het gerecht, met muesli, vers fruit en guaraná wordt dit açaí na tigela (letterlijk açaí in de kom) genoemd. Het is een gerecht dat veel gegeten wordt door sporters, in Brazilië erg populair onder de surfers en wordt gewaardeerd om zijn stimulerende eigenschappen, vergelijkbaar met die in koffie of energiedranken. Açai helpt ook bij het verwijderen van afvalstoffen uit het lichaam.
+                        <br><br>
+                        Açai is bij ons ook verkrijgbaar als sap, op basis van appelsap of yoghurt.
+                        Onze açaí is 100% biologisch!
+                        Laat je verrassen door de unieke smaak van de açai, die bovendien ook erg goed voor de gezondheid is.
+                        <br><br>
+                    </p>
+                </div>
+                <div style='width: 100%; background-color:rgba(160, 141, 161, 0.29); height:55px;'>
+                    <!-- <div class='hyperlink-center'><a href='localhost' class='button green-brazuca'><b>lees verder</b></a></div> -->
+                    <!-- <div style='width: 100%; background-color:#E6DECA; height:75px;'></div> -->
+                    <!-- <div style='width: 100%; background-color:; height:35px;'></div> -->
+                </div>
         </div>
 
 
