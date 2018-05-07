@@ -322,4 +322,6 @@ Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
 
 </div>
 
+</div>
+<?php get_template_part('footer', 'contact'); get_footer_contact('Ds. Jan Scharpstraat') ?>
 <?php get_footer(); ?>
