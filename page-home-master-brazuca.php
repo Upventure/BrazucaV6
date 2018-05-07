@@ -7,61 +7,43 @@
 <?php get_header('');?>
 
 
-   <div class="background-image2  background-image-home-top" style="">
-<div class="mask-layer mask-layer-home mask-layer-2">
-     <div class="content-hoofd-foto">
-
-        <h1 style="font-size:40px;">Brazuca Coffee </h1>
-        <!-- <div class="line-white"></div>
-       <p style="font-size:30px;">" Tangerina Sap"</p> -->
-       <p style="font-size:25px; margin-top:5px;" class="ondertitel"></p>
-       </div>
-
-     </div>
-       </div>
-
-       </div>
+<div class="background-image2  background-image-home-top" style="">
+    <div class="mask-layer mask-layer-home mask-layer-2">
+        <div class="content-hoofd-foto">
+            <h1 style="font-size:40px;">Brazuca Coffee </h1>
+            <!-- <div class="line-white"></div>
+            <p style="font-size:30px;">" Tangerina Sap"</p> -->
+            <p style="font-size:25px; margin-top:5px;" class="ondertitel"></p>
+        </div>
+    </div>
+</div>
 
 <div class="wrapper-top-section">
-<div class="advertisements">
-
-  <div class="section-white light">
-  <div class="flex wrapper-white-sections">
-  <div class="wrapper-white-section-section-50-50 reverse" style='align-content: space-between'>
-
-     <div class="Brazuca-logo-image">  <img class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">      </div>
-
-             <div class="text-white-section" style="max-width:600px;">
-               <h1>Braziliaanse delicatessen  </h1>
-   <!-- <h1>Het beste uit Brazilië </h1> -->
-               <p>
-
-Brazuca coffee brengt u het beste van Brazilie.
-<br>
-Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor vervrissende verse fruitsapen
-gemaakt van fruit uit de Amzone, serveren we autentieke Brazilaanse Acia bowl gerechten die je  gezondheid een boost geven
-en kunt u bij ons genieten van typische Brazilaanse lekernijnen zoals onze eigen gebaken casave broodjes.
-<br><br>
-Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
-
-
-<br>
-
-
-
-
-   <br><br>
-
-</p>
-  <!-- </div> -->
-  </div>
-  </div>
-  </div>
-
-
+    <div class="advertisements">
+        <div class="section-white light">
+            <div class="flex wrapper-white-sections">
+                <div class="wrapper-white-section-section-50-50 reverse" style='align-content: space-between'>
+                    <div class="Brazuca-logo-image">  <img class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">      </div>
+                    <div class="text-white-section" style="max-width:600px;">
+                        <h1>Braziliaanse delicatessen  </h1>
+                        <!-- <h1>Het beste uit Brazilië </h1> -->
+                        <p>
+                            Brazuca coffee brengt u het beste van Brazilie.
+                            <br>
+                            Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor vervrissende verse fruitsapen
+                            gemaakt van fruit uit de Amzone, serveren we autentieke Brazilaanse Acia bowl gerechten die je  gezondheid een boost geven
+                            en kunt u bij ons genieten van typische Brazilaanse lekernijnen zoals onze eigen gebaken casave broodjes.
+                            <br><br>
+                            Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
+                            <br><br><br>
+                        </p>
+                        <!-- </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-</div>
-
 
 
 <div class="wrapper-section-bottom" style="background-color:rgba();">

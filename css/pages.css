@@ -48,18 +48,14 @@
 }
 
 
-.pasie-fruit-image{
-      /* background-image: url('../Images_Brazuca/AdobeStock_106238552_Preview.jpeg'); */
-           background-image: url('../Images_Brazuca/AdobeStock_69902394_Preview.jpeg');
-              /* background-image: url('../Images_Brazuca/AdobeStock_100083918_Preview.jpeg');  */
-              min-width: 550px;
-              height: 350px;
-              background-size: 100% 100%;
+.pasie-fruit-image {
+    /* background-image: url('../Images_Brazuca/AdobeStock_106238552_Preview.jpeg'); */
+    /*background-image: url('../Images_Brazuca/AdobeStock_69902394_Preview.jpeg');*/
+    /* background-image: url('../Images_Brazuca/AdobeStock_100083918_Preview.jpeg');  */
+    min-width: 550px;
+    height: 350px;
+    background-size: 100% 100%;
 }
-
-
-
-
 /* background-image: url('../Images_Brazuca/AdobeStock_94992120_Preview.jpeg'); */
 
 
@@ -118,7 +114,9 @@
 }
 /* einde  keurmerken sectie sectie met mini logo's */
 
-
+.winkel-achtergrond {
+    background: url('../Images_Brazuca/AdobeStock_65437519_Preview.jpeg');
+}
 
 .wrapper-white-sections{
     display: flex;
@@ -132,7 +130,7 @@
   width: 100%;
   margin: auto;
   max-width: 1000px;
-  background-color: whitesmoke ;
+  /*background-color: whitesmoke ;*/
   border: 1px solid white;
   border-radius: 5px;
   /* background-image: image(); */
@@ -313,7 +311,7 @@
 }
 
 .bites-full-section {
-    background: url('../Images_Brazuca/AdobeStock_60671479_Preview.jpeg');
+    /*background: url('../Images_Brazuca/AdobeStock_60671479_Preview.jpeg');*/
 
 }
 
@@ -405,20 +403,6 @@ a.button:hover {
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width: 890px) {
     .referal-advertisement .content .hyperlink a {
         flex-basis: 80%;
@@ -456,20 +440,42 @@ a.button:hover {
 
 /* MULTIPLE ITEMS */
 
+.map-container {
+    background: rgb(107,173,111);
+    color: white;
+    text-align: center;
+
+    border: rgb(107,173,111) solid 2px;
+    border-radius: 8px 8px 0 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.winkels-overzicht-header {
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    background: rgb(107,173,111);
+    border: rgb(107, 173, 111) solid 2px;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.winkels-overzicht-header p {
+    font-style: italic;
+}
+
 .multiple-items-standard-container {
     /*background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/videoblocks-vector-art-deco-pattern-background_ba87pomzw_thumbnail-full01.png');*/
-
     background-image: url('../Images_Brazuca/Brazuca-rotterdam-tablet.jpg');
-
     background-size: cover;
 }
 
 .multiple-items-standard {
     padding: 20px 0;
-    background: linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0.98), rgb(255, 255, 255));
+    /*background: linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0.98), rgb(255, 255, 255));*/
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .item-standard{
@@ -482,18 +488,39 @@ a.button:hover {
 
 .item-standard-border {
     width: 290px;
-    margin: 15px;
+
     /*background: rgb(4, 98, 33);*/
-    backgrond: white;
-    /*color: white;*/
-    color: black;
+    background: white;
+
     text-align: center;
-    margin: 10px;
+
+    border: 2px solid black;
+    border-radius: 8px;
+
+    transition: 0.5s;
+}
+.item-standard-border a {
+    text-decoration: none;
+    color: black;
 }
 
+.item-standard-border:hover {
+    /*background: rgb(4, 98, 33);*/
+    background: rgb(107, 173, 111);
+    transition: 0.2s;
+    color: white;
+    border-color: white;
+    padding: 0 10px;
+}
 
-.item-standard:hover img, .item-standard-border img {
+.item-standard-border:hover a {
+    color: white;
+    transition: 0.2s;
+}
+
+.item-standard:hover img, .item-standard-border:hover img {
     filter: grayscale(0%);
+    transition: 0.2s;
 }
 
 .item-standard:hover a.button-standard, .item-standard-border:hover a.item-standard-border {
@@ -515,42 +542,6 @@ a.button:hover {
     filter: grayscale(100%);
 }
 
-
-.item-standard-border{
-  /* border: 10px solid white; */
-/* url('localhost/Images_Brazuca/AdobeStock_76901866_Preview.svg'); */
-/* border-image:  url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round;
-/* border-image: url(border.png) */
-
-
-/* border-top: 20px solid transparent;
-border-bottom: 20px solid transparent;
-border-bottom: 20px solid black; */
-border: 2px solid black;
-
-/* -webkit-border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round; */
-/* Safari 3.1-5 */
-/* -o-border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round; */
-/* Opera 11-12.1 */
-/* border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round; */
-/* -webkit-border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round; */
-/* Safari 3.1-5  */
-/* -o-border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round; */
-/* Opera 11-12.1  */
-/* border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round; */
-/* -webkit-border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 10 round; */
-/* Safari 3.1-5  */
-/* -o-border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 10 round; */
-/* Opera 11-12.1  */
-/* border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 10 round; */
-
-
-
-  border-radius: 8px;
-}
-
-
-
 a.button-standard {
     flex: 1;
     padding: 5px 0;
@@ -558,11 +549,13 @@ a.button-standard {
     font-size: 22px;
     background: goldenrod;
     text-decoration: none;
+    transition: 0.5s;
 }
 
 a.button-standard:hover {
     background: #efb921;
     text-decoration: underline;
+    transition: 0.2s;
 }
 
 /* colors:
