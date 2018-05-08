@@ -63,8 +63,10 @@ background-color: rgba(255, 255, 255, 0);
 /* -webkit-border-image: url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg') 60 round; */
 /* -webkit-border-image: url('../Images_Brazuca/AdobeStock_113871409_Preview.jpeg') 3 round; */
 /* -webkit-border-image: url('../Images_Brazuca/AdobeStock_104616357_Preview.jpeg') 10 round; */
--webkit-border-image: url('../Images_Brazuca/AdobeStock_73850054_Preview.jpeg') 10 ;
-
+-webkit-border-image: url('../Images_Brazuca/AdobeStock_73850054_Preview.jpeg')10;
+border-image-source: url('../Images_Brazuca/AdobeStock_73850054_Preview.jpeg')10;
+/* Opera 11-12.1 */
+/* border-image: url('../Images_Brazuca/AdobeStock_73850054_Preview.jpeg') 10 round; */
 
 /* -webkit-border-image: url('../Images_Brazuca/Blackandwhite1.jpg') 80 round; */
 /* -webkit-border-image: url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg') 60 round; */
@@ -293,7 +295,7 @@ nav ul li{
     position: relative;
     flex:1 0 auto;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 15px;
 }
 nav ul li:hover{
     position: relative;

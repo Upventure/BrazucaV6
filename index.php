@@ -45,8 +45,13 @@
                     <!-- <div class="image-white-section"></div>       -->
                          <div class="section-2 image-coffee-2"></div>
                     <div class="text-white-section">
+                          <h1  class="header-home-page">Brazuca Koffie</h1>
+                      <p style="text-align:center;">
 
-                        <h1>Brazuca coffee</h1>
+
+
+                                <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/bowl-side.jpg'" style="width:300px; height: auto; margin:auto"></p>
+
                         <p>
                             Brazuca Coffie is koffie die  is gemaakt van de beste kofiiebonen uit Brazilië.
                             Bonen die wij zelf selecteren en samenstellen voor het tot stand brengen van de beste blends.
@@ -61,16 +66,19 @@
     </div>
 </div>
 
-    <div class="background-image2  background-image-home-center" style="">
+
+
+    <!-- <div class="background-image2  background-image-home-center" style="">
         <div class="mask-layer mask-layer-home mask-layer-2">
             <div class="content-hoofd-foto">
-                <h1 style="font-size:40px;">Brazuca Coffee </h1>
-                <!-- <div class="line-white"></div>
-                <p style="font-size:30px;">" Tangerina Sap"</p> -->
+                <h1  class="header-home-page" style="font-size:40px;">Brazuca Coffee </h1>
                 <p style="font-size:25px; margin-top:5px;" class="ondertitel"></p>
             </div>
         </div>
-    </div>
+    </div> -->
+
+
+
 
 <div class="wrapper-top-section">
     <div class="advertisements">
@@ -88,7 +96,11 @@
 
 
                     <div class="text-white-section">
-                        <h1>Açai Bowl</h1>
+                        <h1  class="header-home-page">Açai Bowl</h1>
+
+                        <p style="text-align:center;">
+                        <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/bowl-side.jpg'" style="width:300px; height: auto; margin:auto"></p>
+
                         <p>
                             Açai bowl is nu razend populair. Een mooi opgemaakt kommetje boordevol vitamines. Acht jaar geleden maakten wij als éérste van Amsterdam deze overheerlijke açai bowl, overgevlogen uit Brazilië.
                             <br><br>
@@ -110,10 +122,11 @@
                 <div class="wrapper-white-section-section-50-50">
                     <div class="section-2 image-bites-2"></div>
                     <div class="text-white-section">
-                        <h1>Pão de queijo </h1>
+                            <h1   class="header-home-page"> Pão de queijo</h1>
+
 
 <p style="text-align:center;">
-<img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png" style="width:300px; height: auto; margin:auto"></p>
+<img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/bowl-side.jpg'" style="width:300px; height: auto; margin:auto"></p>
 
 
 

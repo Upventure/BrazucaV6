@@ -455,11 +455,30 @@ img {
 }
 
 
-
-
-
-
-
 .home-img{
-  display: none;
+width: 300px;
+height: auto;
+
+}
+
+.header-home-page{
+  text-align: center;
+}
+
+
+@media (min-width: 500px) {
+
+  .home-img{
+    display: none;
+  }
+
+
+
+
+}
+
+@media (min-width: 700px) {
+.header-home-page{
+  text-align: left;
+}
 }
