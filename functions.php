@@ -2,7 +2,8 @@
 
 function theme_styles() {
 	wp_enqueue_style( 'Brazuca_css', get_template_directory_uri() . '/css/Brazuca.css' );
-	wp_enqueue_style( 'Brazuca-css/nav_css', get_template_directory_uri() . '/css/nav.css' );
+	// wp_enqueue_style( 'Brazuca-css/nav_css', get_template_directory_uri() . '/css/nav.css' );
+  wp_enqueue_style( 'Brazuca-css/nav2_css', get_template_directory_uri() . '/css/nav2.css' );
 	wp_enqueue_style( 'Brazuca-css/pages_css', get_template_directory_uri() . '/css/pages.css' );
 	wp_enqueue_style( 'Brazuca-css/sections_css', get_template_directory_uri() . '/css/sections.css' );
 	wp_enqueue_style( 'Brazuca-css/images_css', get_template_directory_uri() . '/css/images.css' );

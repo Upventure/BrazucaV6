@@ -1,14 +1,14 @@
 /* ------------------------- Start of Menu  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 .nav-container {
-    /* height: 100px; */
+    /* height: 115px; */
     width: 100%;
     position: static;
 
     /* color: green; */
     /* background-color: green; */
     /* background-size: 100% auto; */
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat;
     /* z-index: 0; */
 
     /* display: flex; */
@@ -17,24 +17,66 @@
     /* background-image:url('../Images_Brazuca/AdobeStock_96488629_Preview.svg'); */
     /* background-image:url('../Images_Brazuca/AdobeStock_106058463_Preview.jpeg'); */
     /* background-image:url('../Images_Brazuca/AdobeStock_117000784_Preview.jpg'); */
-    /* background-image:url('../Images_Brazuca/cafetorrado.jpg'); */
-    /* background-image:url('../Images_Brazuca/background-footer.jpg'); */
+    /* background:url('../Images_Brazuca/AdobeStock_76901866_Preview.svg'); */
+   /* background-image:url('../Images_Brazuca/background-footer.jpg'); */
     /* background-repeat: no-repeat; */
+/* background:url('../Images_Brazuca/Blackandwhite1.jpg'); */
+/* background:url('../Images_Brazuca/blackandwhite3.jpg'); */
+/* background:url('../Images_Brazuca/Blackandwhite2.jpg'); */
+/* background:url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg'); */
+/* background:url('../Images_Brazuca/blackandwhite4.jpg'); */
+/* background:url('../Images_Brazuca/AdobeStock_76901866_Preview.svg'); */
+/* background: url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg') ; */
+/* background:url('../Images_Brazuca/AdobeStock_70282519_Preview.jpeg'); */
+/* background:url('../Images_Brazuca/AdobeStock_62323313_Preview.jpeg'); */
 
-    /* border-top: 10px solid white; */
-    /* border-bottom: 2px solid white; */
+
+/* border: 30px solid white; */
+
+
+
+   /* border-top: 2px solid white; */
+   /* border-bottom: 2px solid black; */
 }
 
 
-
-nav {
+.fixed {
     top: 0;
-    margin-top: 0;
-    border-top: 3px solid white;
-    border-bottom:  3px solid white;
-
+    /* margin-top: 14px; */
+    border-bottom:  3px solid black;
+    border-top:  1px solid white;
+/* border-image: url('../Images_Brazuca/blackandwhite4.jpg') 10 round; */
+/* border-image: url('../Images_Brazuca/blackandwhite1.jpg') 10 round; */
+/* border-image: url('../Images_Brazuca/blackandwhite2.jpg') 10 round; */
+/* border-image: url('../Images_Brazuca/blackandwhite3.jpg') 90 round; */
+/* border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 90 round; */
+/* border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 90 round; */
+/* border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 90 round; */
+/* border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 90 round; */
+/* border-image: url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg') 90 round; */
+background-color: rgba(255, 255, 255, 0);
     /* align-self: center; */
+/* -webkit-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 10 round; */
 
+/* -webkit-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 10 round; */
+/* -webkit-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 10 round; */
+/* -webkit-border-image: url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg') 60 round; */
+/* -webkit-border-image: url('../Images_Brazuca/AdobeStock_113871409_Preview.jpeg') 3 round; */
+/* -webkit-border-image: url('../Images_Brazuca/AdobeStock_104616357_Preview.jpeg') 10 round; */
+-webkit-border-image: url('../Images_Brazuca/AdobeStock_73850054_Preview.jpeg') 10 ;
+
+
+/* -webkit-border-image: url('../Images_Brazuca/Blackandwhite1.jpg') 80 round; */
+/* -webkit-border-image: url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg') 60 round; */
+/* AdobeStock_113871409_Preview.jpeg
+Blackandwhite1.jpg */
+
+
+/* border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 10 round; */
+/* border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 90 round; */
+/* border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 90 round; */
+/* border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 90 round; */
+/* border-image: url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg') 90 round; */
     /* background: #6CAD5B; */
     /* background: #78B971; */
     /* background: rgba(65, 159, 94, 0.42); */
@@ -43,8 +85,9 @@ nav {
     /* background: rgba(229, 232, 240, 0.05); */
     /* background: rgba(229, 232, 240, 0.05); */
     /* background: rgba(36, 92, 31, 0.80); */
+
     /* background: rgba(10, 99, 1, 0.4); */
-    background: rgba(250, 246, 244, 0.98);
+    /* background: rgba(250, 246, 244, 0.98); */
 }
 nav ul {
     font-variant-caps: titling-caps;
@@ -52,14 +95,9 @@ nav ul {
     font-family: 'BenguiatGothic bold', sans-serif;
 }
 
-.verandering {
-    margin-top: 0;
-    border-top: 0;
-    border-bottom:  2px solid black;
-    /* background: rgba(246, 247, 242, 100); */
-    /* background: rgba(246, 247, 242, 100); */
-    color: black;
-}
+/* nav ul#menu-tweede-menu li a{
+
+} */
 
 .verandering ul#menu-tweede-menu li a {
     color: black;
@@ -93,7 +131,11 @@ nav.fixed, nav.fixed-white {
     /* border-bottom:  2px solid; */
 
     /* position: static; */
-    background: white;
+
+
+
+
+    /* background: white; */
     /* background-size: 100% auto; */
     /* background-repeat: no-repeat; */
 
@@ -101,7 +143,7 @@ nav.fixed, nav.fixed-white {
     /* border-bottom: 20px solid transparent; */
     /* border-bottom: 20px solid black; */
 
-    /* -webkit-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round; */
+
     /* Safari 3.1-5 */
      /* -o-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round; */
     /* Opera 11-12.1 */
@@ -119,8 +161,29 @@ nav.fixed, nav.fixed-white {
 
 
 }
+
+
+
+.verandering, .verandering-2 {
+    margin-top: 0;
+    border-top: 0;
+    border-bottom:  2px solid black;
+    /* background: rgba(246, 247, 242, 100); */
+    /* background: rgba(246, 247, 242, 100); */
+    color: black;
+    border-image: none;
+    background: rgba(255, 255, 255, 100);
+    background-color: rgba(255, 255, 255, 100);
+    border-image: none;
+    background-image: none;
+
+}
+
+
+
+
 .verandering-2 {
-    background: rgba(250, 246, 244, 0.98);
+    /* background: rgba(250, 246, 244, 0.98); */
 }
 
 .woocommerce-breadcrumb, .page-numbers {
@@ -170,17 +233,18 @@ nav ul#menu-tweede-menu li  ul.sub-menu li a {
     padding-top: 10px;
     padding-bottom:15px;
     color: black;
+    font-size: 16px;
     /* color: white; */
 }
 
 nav ul#menu-tweede-menu li  ul.sub-menu li a:hover {
     color: black;
     /* color: white; */
-    font-size: 18px;
+    /* font-size: 18px; */
     /* font-weight: 600; */
 
-    border-bottom: 2px solid darkgreen;
-    border-top: 2px solid darkgreen;
+    border-bottom: 1px solid darkgreen;
+    /* border-top: 2px solid darkgreen;  */
 }
 
 /* nav ul#menu-nieuw li a {
@@ -197,7 +261,12 @@ ul.sub-menu {
     background-color: white;
 
     border-radius: 1px;
-    border: 1px black solid;
+    border: 10px black solid;
+
+/* border-image: url(); */
+
+   /* -webkit-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round; */
+border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round;
 
     /* color: white; */
     color: black;
@@ -213,7 +282,7 @@ ul.sub-menu {
 ul.sub-menu li {
     /* color: black; */
     /* background: #00CCFF; */
-    border: 1px white solid;
+    border: 0px white solid;
 }
 
 /* ul.sub-menu{
@@ -231,7 +300,7 @@ nav ul li:hover{
     flex:1 0 auto;
 
     /* text-align: left; */
-    font-weight: bolder;
+    /* font-weight: bolder; */
     text-decoration: underline;
 
     /* border-bottom: 4px solid black; */
@@ -267,6 +336,8 @@ nav ul li:hover{
 
         margin-left: auto;
     }
+nav{width: 100%};
+
 
     .hamburger {
         padding-top: 23px;
@@ -357,8 +428,15 @@ nav ul li:hover{
         margin-right: auto;
         /* align-content: flex-end; */
         /* justify-content: space-between; */
-        padding-top: 6px;
+        padding-top: 30;
+        position: relative;
     }
+
+
+  nav ul#menu-tweede-menu{
+  top:80;
+  }
+
 
     .menu-item-has-children ul, .menu-item-has-children ul .menu-item-has-children ul {
         /*display: flex;
@@ -381,6 +459,92 @@ nav ul li:hover{
 
 /* ------------------------- End of Menu 480px + ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 /* -------------------------  End of menu query 480px+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media only screen and (max-width:880px) {
+  .hamburger {
+display: block
+}
+.hamburger {
+display: block
+}
+nav ul#menu-tweede-menu {
+    display: none;
+    flex-direction: row;
+    /* background-color: white; */
+    /* width: 70%; */
+    /* margin-right: auto; */
+    /* align-content: flex-end; */
+    /* justify-content: space-between; */
+    /* padding-top: 6px; */
+}
+/*Afhankelijk van het aantal dropdowns onderstaande classes bewerken,
+- Het gaat om of sub items van menu's wel of niet vetertoon worden
+-Eerste class is de combinatie van 2 en 3. */
+.logo {
+    width: 122px;
+    /* width: 130px; */
+    /* width: 244px; */
+    height: 64px;
+    /* height: 128px; */
+    /* height: 25px !important; */
+
+    text-align: center;
+    vertical-align: middle;
+    align-self: flex-end;
+
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+
+    margin-left: auto;
+}
+
+.hamburger {
+    padding-top: 23px;
+    padding-left: 40px;
+}
+
+nav ul {
+    display: none;
+}
+
+nav ul, nav ul .menu-item-has-children ul li {
+    display: none;
+}
+
+.menu-item-407 {
+    display: flex;
+}
+
+nav ul li {
+    text-align: justify;
+    padding-left: 20px;
+
+    border-bottom: 1px solid green;
+}
+
+ul.sub-menu {
+    border: none;
+    display: none;
+}
+
+/* .menu-item-has-children ul li a{
+    padding-left:2rem;
+}
+.menu-item-has-children ul .menu-item-has-children ul a {
+    padding-left: 3rem;
+} */
+/* .arrow-down::after{
+    content: "\f107";
+} */
+.nav-images, .nav-images-white {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+}
+/* width: 100vw;
+display: flex; */
 
 
 
@@ -390,5 +554,25 @@ nav ul li:hover{
 @media only screen and (max-width:880px) {
     nav ul#menu-tweede-menu {
         width: 100%;
+        flex: nowrap
     }
+
+    nav {
+        width: 100%;
+        flex-direction: column;
+        display: flex;
+    }
+
+
+}
+
+@media only screen and (max-width:880px) {
+    nav ul#menu-tweede-menu {
+        width: 100%;
+        flex: nowrap
+    }
+nav ul#menu-tweede-menu{
+  max-width: 70%:
+}
+
 }

@@ -77,7 +77,16 @@
         <div class="light section-home-page">
             <div class="flex wrapper-white-sections">
                 <div class="wrapper-white-section-section-50-50 reverse">
-                    <div class="section-2 image-açaibowl-2"></div>
+                    <div class="section-2 image-açaibowl-2">     </div>
+                    <div class="img-home-wrapper"></div>
+
+
+
+                    <!-- background: url(../Images_Brazuca/bowl-side.jpg) 0% 0% / 100% 100%; -->
+
+
+
+
                     <div class="text-white-section">
                         <h1>Açai Bowl</h1>
                         <p>
@@ -102,7 +111,14 @@
                     <div class="section-2 image-bites-2"></div>
                     <div class="text-white-section">
                         <h1>Pão de queijo </h1>
+
+<p style="text-align:center;">
+<img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png" style="width:300px; height: auto; margin:auto"></p>
+
+
+
                         <p class="text-home">
+
                             Pão de queijo oftewel het cassave-kaas broodje zoals deze delicatesse bij ons bekend is, is een typische Braziliaanse lekkernij, oorspronkelijk uit de staat Minas Gerais, die ook bekend staat om zijn productie van koffie en zuivelproducten.
                             Cassavemeel wordt ook wel tapiocameel genoemd.
                             <br><br>

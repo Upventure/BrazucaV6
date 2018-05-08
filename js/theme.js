@@ -6,6 +6,8 @@
         });
     });
 
+    
+
     $(document).ready(function(){
       jQuery(".logo").click(function(){
       jQuery("nav ul, .menu-item-407").slideToggle(800);
