@@ -94,9 +94,6 @@
         <div class="section-home-page light">
             <div class="flex wrapper-white-sections">
                 <div class="wrapper-white-section-section-50-50 home-section">
-                    <!-- <div class="image-white-section"></div>       -->
-
-                    <!-- MULTIPLE ITEMS TESTING -->
                     <div class="referal-advertisement-div">
                         <div class="multiple-items-standard">
                             <div class="item-standard">

@@ -40,8 +40,8 @@ function get_footer_contact($establishment_street, $extra_css_class='') {
 
 
     echo "
-        <div class=\"footer coffee-background\">
-            <div class=".$extra_css_class.">
+        <div class=\"footer\" style='padding: 0; margin: 0;'>
+            <div class=\"coffee-background ".$extra_css_class."\" style='padding: 40px 0; margin: 40px 0;'>
                 <div class=\"contact footer-content\">
                     <div class=\"contact-data\">
                         <div class=\"establishment-details\">

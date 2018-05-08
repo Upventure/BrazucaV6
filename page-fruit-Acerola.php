@@ -74,7 +74,7 @@
                         <!-- <h1 style="color:white">  Açai Palm</h1> -->
                         <p style="color: white">
 
-<br><br>    <br><br>           
+<br><br>    <br><br>
     Naast een grote hoeveelheid vitamine C bevat acerola ook een substantiële hoeveelheid pro-vitamine A in de vorm van bètacaroteen, essentieel voor een goed gezichtsvermogen, een goede weerstand, de gezondheid van de huid, het haar en het tandvlees en de lichamelijke ontwikkeling. Bovendien functioneert vitamine A (naast vitamine C) als een belangrijk antioxidant in het menselijk lichaam.
 
     De acerola bes is ook een goede bron van mineralen. Met name ijzer, calcium en fosfor zijn te vinden in de vrucht.
@@ -88,12 +88,11 @@
                     </div>
                 </div>
             </div>
-        </div>
+         </div>
     </div>
-</div>
+ </div>
 
 
-</div>
-
+</div> 
 
 <?php get_footer(); ?>

@@ -51,6 +51,22 @@ img {
     background-size: 100% 100%;
 }
 
+/* --- WINKELS IMAGES --- */
+.image-rijnstraat-1 {
+    background: url('../Images_Brazuca/Home-section1full.jpg') fixed;
+    background-size: 100% 100%;
+}
+
+.image-ferdinand-1 {
+    background: url('../Images_Brazuca/Home-section1full.jpg') fixed;
+    background-size: 100% 100%;
+}
+
+.image-markthal-1 {
+    background: url('../Images_Brazuca/Home-section1full.jpg') fixed;
+    background-size: 100% 100%;
+}
+
 /* --- WINKELS OVERZICHT IMAGES --- */
 .image-winkels-1 {
     background: url('../Images_Brazuca/Brazuca-rotterdamfull2.jpg') fixed;
@@ -107,7 +123,9 @@ img {
 }
 
 .image-bites-2 {
-    background: url('../Images_Brazuca/bites-side.jpg');
+    /* background: url('../Images_Brazuca/bites-side.jpg'); */
+  background: url('../Images_Brazuca/Bites-sidenew.jpg');
+
     background-size: 100% 100%;
 }
 
@@ -272,6 +290,22 @@ img {
         background-size: 100% 100%;
     }
 
+    /* --- TABLET WINKELS IMAGES --- */
+    .image-rijnstraat-1 {
+        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background-size: 100%;
+    }
+
+    .image-ferdinand-1 {
+        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background-size: 100%;
+    }
+
+    .image-markthal-1 {
+        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background-size: 100%;
+    }
+
     /* --- TABLET ACAI-BOWL IMAGES --- */
     .image-açaibowl-1 {
         background: url('../Images_Brazuca/bowl-background-tablet.jpg') fixed;
@@ -363,6 +397,22 @@ img {
         background-size: 100% 100%;
     }
 
+    /* --- MOBILE WINKELS IMAGES --- */
+    .image-rijnstraat-1 {
+        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background-size: 100% 100%;
+    }
+
+    .image-ferdinand-1 {
+        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background-size: 100% 100%;
+    }
+
+    .image-markthal-1 {
+        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background-size: 100% 100%;
+    }
+
     /* ---  --- */
     .image-açaibowl-1 {
         background: url('../Images_Brazuca/bowl-background-mobile.jpg') fixed;
@@ -416,15 +466,22 @@ img {
 
 }
 
+
+
 /* --- EXTRA --- */
 @media (max-width: 701px) {
     .section-2 {
         min-width: 0;
         height: 0;
+}
+
+.mask-layer, .mask-layer-2, .background-image-pasie-fruit {
+background-attachment: local;
     }
+
+
 }
 @media (max-width: 797px) {
-
     .sectie-1-image-section {
         flex: 0;
         min-height: 0;
@@ -434,25 +491,19 @@ img {
     }
 }
 
-
-
-
-}
-
-
-
- .img-home-wrapper {
+.img-home-wrapper {
     width: 100%;
 }
 
-  .img-home-wrapper img{
-  /* width: 70%; */
-  width: 100%;
-  height: auto;
-  max-width: 100px;
-  margin: auto;
+.img-home-wrapper img {
+    /* width: 70%; */
+    width: 100%;
+    height: auto;
+    max-width: 100px;
+    margin: auto;
 
 }
+
 
 
 .home-img{
@@ -480,5 +531,4 @@ height: auto;
 @media (min-width: 700px) {
 .header-home-page{
   text-align: left;
-}
 }
