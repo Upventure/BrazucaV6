@@ -51,6 +51,22 @@ img {
     background-size: 100% 100%;
 }
 
+/* --- WINKELS IMAGES --- */
+.image-rijnstraat-1 {
+    background: url('../Images_Brazuca/Home-section1full.jpg') fixed;
+    background-size: 100% 100%;
+}
+
+.image-ferdinand-1 {
+    background: url('../Images_Brazuca/Home-section1full.jpg') fixed;
+    background-size: 100% 100%;
+}
+
+.image-markthal-1 {
+    background: url('../Images_Brazuca/Home-section1full.jpg') fixed;
+    background-size: 100% 100%;
+}
+
 /* --- WINKELS OVERZICHT IMAGES --- */
 .image-winkels-1 {
     background: url('../Images_Brazuca/Brazuca-rotterdamfull2.jpg') fixed;
@@ -272,6 +288,22 @@ img {
         background-size: 100% 100%;
     }
 
+    /* --- TABLET WINKELS IMAGES --- */
+    .image-rijnstraat-1 {
+        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background-size: 100%;
+    }
+
+    .image-ferdinand-1 {
+        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background-size: 100%;
+    }
+
+    .image-markthal-1 {
+        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background-size: 100%;
+    }
+
     /* --- TABLET ACAI-BOWL IMAGES --- */
     .image-açaibowl-1 {
         background: url('../Images_Brazuca/bowl-background-tablet.jpg') fixed;
@@ -362,7 +394,23 @@ img {
         background: url('../Images_Brazuca/Brazuca-rotterdam-mobile.jpg') fixed;
         background-size: 100% 100%;
     }
-    
+
+    /* --- MOBILE WINKELS IMAGES --- */
+    .image-rijnstraat-1 {
+        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background-size: 100% 100%;
+    }
+
+    .image-ferdinand-1 {
+        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background-size: 100% 100%;
+    }
+
+    .image-markthal-1 {
+        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background-size: 100% 100%;
+    }
+
     /* ---  --- */
     .image-açaibowl-1 {
         background: url('../Images_Brazuca/bowl-background-mobile.jpg') fixed;
