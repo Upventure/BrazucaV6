@@ -46,7 +46,7 @@
                             Bonen die wij zelf selecteren en samenstellen voor het tot stand brengen van de beste blends.
                             Iedere oogst weer bepalen wij de beste combinatie van koffiebonen voor samenstellen van onze malanges door de verschillende bonen te proefen en  Coffee farms in Brazilie te bezoeken. Door onze jarenlange ervaring en kennis van kofiebonen zijn wij in staat gebleken om hoogwaardige Brazaliaanse koffie naar Nederland te halen.
                             <br><br><br><br><br><br>
-                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Brazuca koffie</a>
+                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="<?php bloginfo('template_url')?>/testpage">Brazuca koffie</a>
                         </p>
                     </div>
                 </div>
@@ -60,31 +60,31 @@
                 <div style="flex: 1;">
                     <h1 class="header-home-page" style="background: rgb(107,173,111); text-align: center; padding: 10px; color: white;">Diverse tropische fruitsappen</h1>
                     <div class="multiple-items-standard">
-                        <a class="item-fruit" href="localhost/ananas">
+                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/ananas">
                             <div style="width: 150px; height: 150px;">
                                 <img src="<?php bloginfo('template_url')?>/Images_Brazuca/ananas-side.jpg" style="width: 100%; height: 100%;">
                             </div>
                             <h4>Ananas sap</h4>
                         </a>
-                        <a class="item-fruit" href="localhost/mango">
+                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/mango">
                             <div style="width: 150px; height: 150px;">
                                 <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Mango-side.jpg">
                             </div>
                             <h4>Mango sap</h4>
                         </a>
-                        <a class="item-fruit" href="localhost/acerola">
+                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/acerola">
                             <div style="width: 150px; height: 150px;">
                                 <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Acerola-side.jpg">
                             </div>
                             <h4>Acerola sap</h4>
                         </a>
-                        <a class="item-fruit" href="localhost/passievrucht">
+                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/passievrucht">
                             <div style="width: 150px; height: 150px;">
                                 <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Passievrucht-side.jpg">
                             </div>
                             <h4>Passievrucht sap</h4>
                         </a>
-                        <a class="item-fruit" href="localhost/acai">
+                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/acai">
                             <div style="width: 150px; height: 150px;">
                                 <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Acai-side.jpg">
                             </div>
@@ -132,7 +132,7 @@
                             <br><br>
                             Er wordt beweerd dat het recept al bestaat sinds de achttiende eeuw, maar het broodje werd pas populair in Brazilië in de jaren 50. De pão de queijo is een van de bekendste gerechten uit de Braziliaanse keuken. Er is geen Braziliaan die de pão de queijo niet kent, en geen buitenlander die niet verliefd wordt bij de eerste hap.
                             <br><br><br><br><br><br>
-                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Brazuca Bites</a>
+                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="<?php bloginfo('template_url')?>/bites">Brazuca Bites</a>
 
                         </p>
                     </div>
@@ -160,7 +160,7 @@
                             In de meeste van onze winkels kunt het bestellen als ontbijt lunch of maaltijd.
                             <!-- en kan het als  als ontbijt , lunch of als maaltijd worden besteld in de meeste van onze winkels. -->
                             <br><br><br>          <br><br>  <br>
-                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Acai bowl gerechten</a>
+                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="<?php bloginfo('template_url')?>/acai-bowl">Acai bowl gerechten</a>
                         </p>
                     </div>
                 </div>
