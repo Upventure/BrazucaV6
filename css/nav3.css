@@ -156,8 +156,6 @@ nav.fixed, nav.fixed-white {
     color: black;
     border-image: none;
     background: rgba(255, 255, 255, 100);
-    background-color: rgba(255, 255, 255, 100);
-    border-image: none;
     background-image: none;
 
 }
@@ -246,7 +244,7 @@ ul.sub-menu {
 /* border-image: url(); */
 
    /* -webkit-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round; */
-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round;
+border: whitesmoke 5px solid;
 
     /* color: white; */
     color: black;

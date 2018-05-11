@@ -371,13 +371,13 @@ img {
 
     /* --- HOMEPAGE IMAGES --- */
     .image-home-1 {
-        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background: url('../Images_Brazuca/home-section1mobile.jpg');
         background-size: 100% 100%;
     }
 
     /* --- MOBILE COFFEE IMAGES --- */
     .image-coffee-1 {
-        background: url('../Images_Brazuca/cafetorrado-mobile.jpg') fixed;
+        background: url('../Images_Brazuca/cafetorrado-mobile.jpg');
         background-size: 100% 100%;
     }
 
@@ -388,41 +388,41 @@ img {
 
     /* ---  --- */
     .image-fruitsappen-1 {
-        background: url('../Images_Brazuca/fruistappenoverzicht-mobile.jpg') fixed;
+        background: url('../Images_Brazuca/fruistappenoverzicht-mobile.jpg');
         background-size: 100% 100%;
     }
 
     /* ---  --- */
     .image-winkels-1 {
-        background: url('../Images_Brazuca/Brazuca-rotterdam-mobile.jpg') fixed;
+        background: url('../Images_Brazuca/Brazuca-rotterdam-mobile.jpg');
         background-size: 100% 100%;
     }
 
     /* --- MOBILE WINKELS IMAGES --- */
     .image-rijnstraat-1 {
-        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background: url('../Images_Brazuca/home-section1mobile.jpg');
         background-size: 100% 100%;
     }
 
     .image-ferdinand-1 {
-        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background: url('../Images_Brazuca/home-section1mobile.jpg');
         background-size: 100% 100%;
     }
 
     .image-markthal-1 {
-        background: url('../Images_Brazuca/home-section1mobile.jpg') fixed;
+        background: url('../Images_Brazuca/home-section1mobile.jpg');
         background-size: 100% 100%;
     }
 
     /* ---  --- */
     .image-açaibowl-1 {
-        background: url('../Images_Brazuca/bowl-background-mobile.jpg') fixed;
+        background: url('../Images_Brazuca/bowl-background-mobile.jpg');
         background-size: 100% 100%;
     }
 
     /* ---  --- */
     .image-bites-1 {
-        background: url('../Images_Brazuca/bites-background-mobile.jpg') fixed;
+        background: url('../Images_Brazuca/bites-background-mobile.jpg');
         background-size: 100% 100%;
     }
     .image-bites-3 {
@@ -430,13 +430,13 @@ img {
     }
     /* ---  --- */
     .image-ananas-1 {
-        background: url('../Images_Brazuca/ananas-background-mobile.jpg') fixed;
+        background: url('../Images_Brazuca/ananas-background-mobile.jpg');
         background-size: 100% 100%;
     }
 
     /* ---  --- */
     .image-Passievrucht-1 {
-        background: url('../Images_Brazuca/passievrucht-mobilesection1.jpg') fixed;
+        background: url('../Images_Brazuca/passievrucht-mobilesection1.jpg');
         background-size: 100% 100%;
     }
     .image-Passievrucht-3 {
@@ -446,7 +446,7 @@ img {
 
     /* ---  --- */
     .image-Acerola-1 {
-        background: url('../Images_Brazuca/Acerola-section1mobile.jpg') fixed;
+        background: url('../Images_Brazuca/Acerola-section1mobile.jpg');
         background-size: 100% 100%;
     }
 
@@ -457,7 +457,7 @@ img {
 
     /* ---  --- */
     .image-Mango-1 {
-        background: url('../Images_Brazuca/mango-mobile.jpg') fixed;
+        background: url('../Images_Brazuca/mango-mobile.jpg');
         background-size: 100% 100%;
     }
 
