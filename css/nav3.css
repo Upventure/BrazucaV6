@@ -478,7 +478,8 @@ nav ul#menu-tweede-menu {
 
 .hamburger {
     padding-top: 23px;
-    padding-left: 40px;
+    /* padding-left: 40px; */
+
 }
 
 nav ul {
@@ -517,7 +518,7 @@ ul.sub-menu {
 .nav-images, .nav-images-white {
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     flex-direction: row-reverse;
 }
 }
