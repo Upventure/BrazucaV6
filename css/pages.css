@@ -238,7 +238,7 @@
 /* toevoegingen door Jeroen */
 .wrapper-top-section{
     width: 100%;
-    background: linear-gradient(rgba(255, 255, 255, 0.19), rgba(205, 205, 192, 0.88));
+    background: linear-gradient(rgba(255, 255, 255, 0.19), rgba(205, 205, 192, 0.88), rgba(255, 255, 255, 0.19));
     /* margin-top: 50px; */
 
 }
@@ -484,6 +484,28 @@ a.button:hover {
     background: rgb(4, 98, 33);
     color: white;
     text-align: center;
+}
+
+.item-fruit {
+    width: 150px;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    transition: 0.1s;
+}
+
+.item-fruit h4 {
+    margin: 5px 0;
+    padding: 5px;
+    text-align: center;
+    background: rgb(107, 173, 111);
+}
+
+.item-fruit:hover {
+    width: 170px;
+    transition: 0.1s;
+    text-decoration: underline;
+    margin: 0;
 }
 
 .item-standard-border {

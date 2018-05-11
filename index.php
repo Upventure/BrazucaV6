@@ -81,45 +81,43 @@ Echt vers gebrande koffie en authentieke Braziliaanse delicatessen 
             </div>
         </div>
     </div>
-</div>
 
-
-
-
-
-
-
-
-<div class="wrapper-top-section">
     <div class="advertisements">
         <div class="light section-home-page">
             <div class="flex wrapper-white-sections">
-                <div class="wrapper-white-section-section-50-50 reverse">
-                    <div class="section-2 image-açaibowl-2">     </div>
-                    <!-- <div class="img-home-wrapper"></div> -->
-
-
-
-                    <!-- background: url(../Images_Brazuca/bowl-side.jpg) 0% 0% / 100% 100%; -->
-
-
-
-
-                    <div class="text-white-section">
-                        <h1  class="header-home-page">Açai Bowl</h1>
-
-                        <p style="text-align:center;">
-                        <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/bowl-side.jpg'" style="width:300px; height: auto; margin:auto"></p>
-
-                        <p>
-                            Açai bowl is nu razend populair. Een mooi opgemaakt kommetje boordevol vitamines. Acht jaar geleden maakten wij als éérste van Amsterdam deze overheerlijke açai bowl, overgevlogen uit Brazilië.
-                            <br><br>
-                            Inmiddels zijn onze Açai Bowl gerechten een begrip geworden.
-                            In de meeste van onze winkels kunt het bestellen als ontbijt lunch of maaltijd.
-                            <!-- en kan het als  als ontbijt , lunch of als maaltijd worden besteld in de meeste van onze winkels. -->
-                            <br><br><br>          <br><br>  <br>
-                                  <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Acai bowl gerechten</a>
-                        </p>
+                <div style="flex: 1;">
+                    <h1 class="header-home-page" style="background: rgb(107,173,111); text-align: center; padding: 10px; color: white;">Diverse tropische fruitsappen</h1>
+                    <div class="multiple-items-standard">
+                        <a class="item-fruit" href="localhost/ananas">
+                            <div style="width: 150px; height: 150px;">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/ananas-side.jpg" style="width: 100%; height: 100%;">
+                            </div>
+                            <h4>Ananas sap</h4>
+                        </a>
+                        <a class="item-fruit" href="localhost/mango">
+                            <div style="width: 150px; height: 150px;">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Mango-side.jpg">
+                            </div>
+                            <h4>Mango sap</h4>
+                        </a>
+                        <a class="item-fruit" href="localhost/acerola">
+                            <div style="width: 150px; height: 150px;">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Acerola-side.jpg">
+                            </div>
+                            <h4>Acerola sap</h4>
+                        </a>
+                        <a class="item-fruit" href="localhost/passievrucht">
+                            <div style="width: 150px; height: 150px;">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Passievrucht-side.jpg">
+                            </div>
+                            <h4>Passievrucht sap</h4>
+                        </a>
+                        <a class="item-fruit" href="localhost/acai">
+                            <div style="width: 150px; height: 150px;">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Acai-side.jpg">
+                            </div>
+                            <h4>Açai sap</h4>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -161,9 +159,36 @@ Echt vers gebrande koffie en authentieke Braziliaanse delicatessen 
                             Cassavemeel wordt ook wel tapiocameel genoemd.
                             <br><br>
                             Er wordt beweerd dat het recept al bestaat sinds de achttiende eeuw, maar het broodje werd pas populair in Brazilië in de jaren 50. De pão de queijo is een van de bekendste gerechten uit de Braziliaanse keuken. Er is geen Braziliaan die de pão de queijo niet kent, en geen buitenlander die niet verliefd wordt bij de eerste hap.
-                                    <br><br>  <br>          <br><br>  <br>
-                              <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Brazuca Bites</a>
+                            <br><br><br><br><br><br>
+                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Brazuca Bites</a>
 
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="advertisements">
+        <div class="light section-home-page">
+            <div class="flex wrapper-white-sections">
+                <div class="wrapper-white-section-section-50-50 reverse">
+                    <div class="section-2 image-açaibowl-2"></div>
+
+                    <div class="text-white-section">
+                        <h1  class="header-home-page">Açai Bowl</h1>
+
+                        <p style="text-align:center;">
+                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/bowl-side.jpg'" style="width:300px; height: auto; margin:auto"></p>
+
+                        <p>
+                            Açai bowl is nu razend populair. Een mooi opgemaakt kommetje boordevol vitamines. Acht jaar geleden maakten wij als éérste van Amsterdam deze overheerlijke açai bowl, overgevlogen uit Brazilië.
+                            <br><br>
+                            Inmiddels zijn onze Açai Bowl gerechten een begrip geworden.
+                            In de meeste van onze winkels kunt het bestellen als ontbijt lunch of maaltijd.
+                            <!-- en kan het als  als ontbijt , lunch of als maaltijd worden besteld in de meeste van onze winkels. -->
+                            <br><br><br>          <br><br>  <br>
+                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Acai bowl gerechten</a>
                         </p>
                     </div>
                 </div>
