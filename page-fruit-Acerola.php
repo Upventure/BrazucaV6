@@ -9,11 +9,14 @@
 
 <div class="section-1 image-Acerola-1 ">
     <div class="mask-layer mask-layer-2 mask-layer-fruit-page">
-        <div class="content-hoofd-foto">
+      <div class="content-hoofd-foto">
+          <!-- <div class="line-white"></div>
+          <p style="font-size:30px;">" Tangerina Sap"</p> -->
+      <!-- <h1 style="font-size:30px; margin-top:20px; padding:0px;">Brazuca Coffee </h1> -->
+          <img class="" style="max-width:240px; margin-top:80px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
+        <h1 style='font-size:30px;'>  Acerola bessensap  </h1>
 
-            <h1 style="font-size:40px;">Brazuca fruitsappen </h1>
-            <p style="font-size:25px; margin-top:5px;" class="ondertitel">Acerola Sap</p>
-       </div>
+  <p style="font-size:20px; margin-top: 5px;" class="ondertitel">Heerlijke verse Acerola bessensap <br>rechtstreeks uit de Amazone</p>
     </div>
 </div>
 
@@ -93,6 +96,6 @@
  </div>
 
 
-</div> 
+</div>
 
 <?php get_footer(); ?>

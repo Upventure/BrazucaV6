@@ -2,12 +2,19 @@
 
 <div class="section-1 image-rijnstraat-1">
     <div class="mask-layer mask-layer-home mask-layer-2">
-        <div class="content-hoofd-foto">
-            <h1 style="font-size:40px;">Brazuca Coffee </h1>
-            <!-- <div class="line-white"></div>
-            <p style="font-size:30px;">" Tangerina Sap"</p> -->
-            <p style="font-size:25px; margin-top:5px;" class="ondertitel"></p>
-        </div>
+      <div class="content-hoofd-foto">
+          <!-- <div class="line-white"></div>
+          <p style="font-size:30px;">" Tangerina Sap"</p> -->
+      <!-- <h1 style="font-size:30px; margin-top:20px; padding:0px;">Brazuca Coffee </h1> -->
+          <img class="" style="max-width:240px; margin-top:80px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
+        <h1 style='font-size:30px;'> Brazuca Coffee Amsterdam  </h1>
+
+  <p style="font-size:20px; margin-top: 1px;" class="ondertitel">Braziliaanse koffiebar aan de Ferdinand bolstraat  <br><br></p>
+<p style="font-size:18px; margin-top: 1px;" class="ondertitel">Echte verse gebrande koffie en  authentieke</br> Braziliaanse delicatessen proeft u <br>bij Brazuca aan de Rijnstraat te Amsterdam
+  </p>
+
+
+      </div>
     </div>
 </div>
 
@@ -18,21 +25,12 @@
             <div class="flex wrapper-white-sections">
                 <div class="wrapper-white-section-section-50-50 reverse" style='align-content: space-between'>
                     <!-- <div class="Brazuca-logo-image">  <img class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">      </div> -->
-                    <div class="text-white-section" style="">
-                        <h1>Braziliaanse delicatessen  </h1>
-                        <!-- <h1>Het beste uit Brazilië </h1> -->
-                        <p>
+                    <h1> Braziliaanse Koffie drinken in Amsterdam </h1>
+            <p>
+                      Verse Koffie kopen of drinken in Amsterdam kan bij Brazuca aan de Rijnstraat te  Amsterdam. Hier proef je onze eigen gebrande koffiemelanges gemaakt van de beste koffiebonen uit Brazilië. Koffie die met veel zorg is samengesteld en met passie is bereidt.
+                      <br><br>
+                      Naast koffie kopen kunt bij ons terecht voor allerlei andere Braziliaanse versproducten zoals onze bijzondere verse Amazone fruitsappen, de typisch Braziliaanse bites zoals bijvoorbeeld cassave broodjes en niet te vergeten onze voedingsrijken Acai bowl gerechten, boordevol vitamines en in heel Brazilië geroemd vanwege de energiegevende krachten. Kortom voor ieder moment van de dag kunt je terecht bij Brazuca. Wij zijn 7 dagen per week geopend 10:00 tot 20:00  </p>
 
-                            Brazuca coffee brengt u het beste van Brazilie.
-                            <br>
-                            Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor vervrissende verse fruitsapen
-                            gemaakt van fruit uit de Amzone, serveren we autentieke Brazilaanse Acia bowl gerechten die je  gezondheid een boost geven
-                            en kunt u bij ons genieten van typische Brazilaanse lekernijnen zoals onze eigen gebaken casave broodjes.
-                            <br><br>
-                            Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
-                            <br><br><br>
-                        </p>
-                    </div>
                 </div>
             </div>
         </div>

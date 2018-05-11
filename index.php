@@ -29,7 +29,7 @@ Echt vers gebrande koffie en authentieke Braziliaanse delicatessen 
         <div class="section-home-page light">
             <div class="flex wrapper-white-sections">
                 <div class="wrapper-white-section-section-50-50 reverse" style='align-content: space-between'>
-                    <div class="Brazuca-logo-image">  <img class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">     </div>
+
 
 
                     <div class="text-white-section" style="">
@@ -40,7 +40,7 @@ Echt vers gebrande koffie en authentieke Braziliaanse delicatessen 
                           Brazuca coffee brengt u het beste van Brazilië.   Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor verfrissende verse fruitsappen gemaakt van fruit uit de Amazone. Serveren we authentieke Braziliaanse Açia bowl gerechten om je gezondheid een boost te kunnen geven en kunt u bij ons genieten van typische Braziliaanse lekkernijen zoals onze eigen gebakken cassave broodjes.  
 <br><br>
                           Toewijding en passie dat is wat je proeft: kortom echte Braziliaanse ambacht!   Gewoon tussendoor of voor de lekkere trek; eigenlijk kun je voor ieder moment wel terecht bij Brazuca. Bij Brazuca koop je ook meteen heerlijke vers gebrande koffie voor thuis. Heb je onze koffie nog niet geproefd? Kom dan snel langs in een van onze winkels! 
-
+  <!-- <p style="text-align:center; margin-top: 20px;"><img style='max-width:100px; text-align:center;' class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">    </p> -->
 
                             <br><br>
 
@@ -48,8 +48,11 @@ Echt vers gebrande koffie en authentieke Braziliaanse delicatessen 
                         </p>
                     </div>
                 </div>
+
             </div>
+             </div>
         </div>
+
     </div>
 
     <div class="advertisements">

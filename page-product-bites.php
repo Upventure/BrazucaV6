@@ -8,13 +8,12 @@
 
 <div class="section-1 image-bites-1">
     <div class="mask-layer mask-layer-2 mask-layer-fruit-page">
-        <div class="content-hoofd-foto">
-
-            <h1 style="font-size:40px;">Brazuca Bites </h1>
-            <!-- <div class="line-white"></div>
-            <p style="font-size:30px;">" Tangerina Sap"</p> -->
-            <p style="font-size:25px; margin-top:5px;" class="ondertitel">Pão de Queijo</p>
-        </div>
+      <div class="content-hoofd-foto">
+          <!-- <div class="line-white"></div>
+          <p style="font-size:30px;">" Tangerina Sap"</p> -->
+      <!-- <h1 style="font-size:30px; margin-top:20px; padding:0px;">Brazuca Coffee </h1> -->
+          <img class="" style="max-width:240px; margin-top:80px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
+        <h1 style='font-size:30px;'> <?php wp_title(); ?>  </h1>
     </div>
 </div>
 

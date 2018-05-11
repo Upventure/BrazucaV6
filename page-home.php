@@ -7,14 +7,20 @@
 <?php get_header('');?>
 <div class="section-1 image-coffee-1" style="height: 550px;">
     <div class="mask-layer mask-layer-2 mask-layer-coffee-page">
-        <div class="content-hoofd-foto">
+      <div class="content-hoofd-foto">
+          <!-- <div class="line-white"></div>
+          <p style="font-size:30px;">" Tangerina Sap"</p> -->
+      <!-- <h1 style="font-size:30px; margin-top:20px; padding:0px;">Brazuca Coffee </h1> -->
+          <img class="" style="max-width:240px; margin-top:80px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
+        <h1 style='font-size:30px;'> <?php wp_title(); ?>  </h1>
 
-            <!-- <img class="img-scrink content-logo" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png"> </img> -->
-            <h1>Brazuca Coffee</h1>
-            <div class="line-white"></div>
-            <p>"Lorem ipsum dolor sit amet,"</p>
-            <p class="ondertitel">Amsterdam | Rotterdam</p>
-        </div>
+
+
+        <!-- <div class="content-hoofd-foto">
+            <h1 style="font-size:40px;">Brazuca Açai Bowl</h1>
+            <p style="font-size:25px; margin-top:5px;" class="ondertitel">Açaí na Tigela</p>
+        </div> -->
+    </div>
     </div>
 </div>
 
