@@ -3,77 +3,49 @@
 <div class="section-1 image-home-1">
     <div class="mask-layer mask-layer-home mask-layer-2">
         <div class="content-hoofd-foto">
-
-            <!-- <div class="line-white"></div>
-            <p style="font-size:30px;">" Tangerina Sap"</p> -->
-
-
-        <!-- <h1 style="font-size:30px; margin-top:20px; padding:0px;">Brazuca Coffee </h1> -->
             <img class="" style="max-width:240px; margin-top:40px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
             <p style="font-size:20px; margin-top:5px;" class="ondertitel">
-
-Echt vers gebrande koffie en authentieke Braziliaanse delicatessen 
-
-
- <br> proeft u bij Brazuca
-
+                Echte vers gebrande koffie en authentieke Braziliaanse delicatessen 
+                <br>
+                proeft u bij Brazuca
             </p>
-
         </div>
     </div>
 </div>
 
 <div class="wrapper-top-section" style="border-top:  6px solid rgb(232, 237, 230);">
     <div class="advertisements">
-
-        <div class="section-home-page light">
-            <div class="flex wrapper-white-sections">
-                <div class="wrapper-white-section-section-50-50 reverse" style='align-content: space-between'>
-
-
-
-                    <div class="text-white-section" style="">
-
-                        <h1>Het beste uit Brazilië </h1>
-                        <p>
-
-                          Brazuca coffee brengt u het beste van Brazilië.   Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor verfrissende verse fruitsappen gemaakt van fruit uit de Amazone. Serveren we authentieke Braziliaanse Açia bowl gerechten om je gezondheid een boost te kunnen geven en kunt u bij ons genieten van typische Braziliaanse lekkernijen zoals onze eigen gebakken cassave broodjes.  
-<br><br>
-                          Toewijding en passie dat is wat je proeft: kortom echte Braziliaanse ambacht!   Gewoon tussendoor of voor de lekkere trek; eigenlijk kun je voor ieder moment wel terecht bij Brazuca. Bij Brazuca koop je ook meteen heerlijke vers gebrande koffie voor thuis. Heb je onze koffie nog niet geproefd? Kom dan snel langs in een van onze winkels! 
-  <!-- <p style="text-align:center; margin-top: 20px;"><img style='max-width:100px; text-align:center;' class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">    </p> -->
-
-                            <br><br>
-
-                            <br><br><br>
-                        </p>
+        <div class="section-home-page light" id="main-section" style="padding: 0;">
+            <div class="section-mask" style="padding-top: 40px; padding-bottom: 20px; background: rgba(255, 255, 255, 0.5)">
+                <div class="flex wrapper-white-sections">
+                    <div class="wrapper-white-section-section-50-50 reverse" style='align-content: space-between'>
+                        <div class="text-white-section" style="">
+                            <h1>Het beste uit Brazilië </h1>
+                            <p>
+                                Brazuca coffee brengt u het beste van Brazilië.   Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor verfrissende verse fruitsappen gemaakt van fruit uit de Amazone. Serveren we authentieke Braziliaanse Açia bowl gerechten om je gezondheid een boost te kunnen geven en kunt u bij ons genieten van typische Braziliaanse lekkernijen zoals onze eigen gebakken cassave broodjes.  
+                                <br><br>
+                                Toewijding en passie dat is wat je proeft: kortom echte Braziliaanse ambacht!   Gewoon tussendoor of voor de lekkere trek; eigenlijk kun je voor ieder moment wel terecht bij Brazuca. Bij Brazuca koop je ook meteen heerlijke vers gebrande koffie voor thuis. Heb je onze koffie nog niet geproefd? Kom dan snel langs in een van onze winkels! 
+                            </p>
+                        </div>
                     </div>
                 </div>
-
             </div>
-             </div>
         </div>
-
     </div>
 
     <div class="advertisements">
         <div class="section-home-page light">
             <div class="flex wrapper-white-sections">
                 <div class="wrapper-white-section-section-50-50 home-section">
-                    <!-- <div class="image-white-section"></div>       -->
-                         <div class="section-2 image-coffee-2"></div>
-                    <div class="text-white-section">
-                          <h1  class="header-home-page">Brazuca Koffie</h1>
-                      <p style="text-align:center;">
-
-
-
-                                <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Coffee-mok.jpg" style="width:300px; height: auto; margin:auto"></p>
-
-                        <p>
-                            Brazuca Coffie is koffie die  is gemaakt van de beste kofiiebonen uit Brazilië.
+                    <div class="section-2 image-coffee-2"></div>
+                        <div class="text-white-section">
+                            <h1  class="header-home-page">Brazuca Koffie</h1>
+                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Coffee-mok.jpg" style="width:300px; height: auto; margin:auto">
+                            <p>
+                            Brazuca Coffie is koffie die is gemaakt van de beste kofiiebonen uit Brazilië.
                             Bonen die wij zelf selecteren en samenstellen voor het tot stand brengen van de beste blends.
                             Iedere oogst weer bepalen wij de beste combinatie van koffiebonen voor samenstellen van onze malanges door de verschillende bonen te proefen en  Coffee farms in Brazilie te bezoeken. Door onze jarenlange ervaring en kennis van kofiebonen zijn wij in staat gebleken om hoogwaardige Brazaliaanse koffie naar Nederland te halen.
-                            <br><br><br>          <br><br>  <br>
+                            <br><br><br><br><br><br>
                             <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Brazuca koffie</a>
                         </p>
                     </div>
