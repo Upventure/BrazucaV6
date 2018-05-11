@@ -1,3 +1,9 @@
+
+#main-section {
+    background: url('../Images_Brazuca/background-menu5.jpg');
+    background-size: 100%;
+}
+
 /* background-image  */
 .sectie-1-background-image {
     background-image: url('../Images_Brazuca/AdobeStock_190814566_Preview.jpeg');
@@ -19,7 +25,6 @@
 .Coffee-infographic-image {
     background-image: url('../Images_Brazuca/production-infograph.png');
     background-size: 100% 100%;
-
 }
 
 /* image mobiel */
@@ -504,8 +509,6 @@ background-attachment: local;
 
 }
 
-
-
 .home-img{
 width: 300px;
 height: auto;
@@ -529,6 +532,7 @@ height: auto;
 }
 
 @media (min-width: 700px) {
-.header-home-page{
-  text-align: left;
+    .header-home-page {
+        text-align: left;
+    }
 }
