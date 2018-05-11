@@ -1,12 +1,4 @@
 
-.wrapper-fruit-all-1{
-    width: 100%;
-    color: white;
-}
-
-
-
-
 .wrapper-fruit-all{
   width: 100%;
 
@@ -16,29 +8,13 @@
   /* background-image: url('../Images_Brazuca/AdobeStock_65437519_Preview.jpeg'); */
   /* background-image: url('../Images_Brazuca/AAdobeStock_70282519_Preview.jpeg); */
   background-image: url('../Images_Brazuca/Achtergrond-fruitsappenoverzicht.jpg');
-  /* background-image: url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg');  */ */
+  /* background-image: url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg');  */
 
   background-size: 100% 100%;
   /* height: 650px; */
   z-index: 0;
   position: static;
 
-}
-.container-fruit-all{
-    width: 80%;
-    margin: auto;
-background-color: rgba(241, 249, 242, 0.94);
-
-        /* background-image: url('../Images_Brazuca/AdobeStock_62323313_Preview.jpeg'); */
-        /* background-image: url('../Images_Brazuca/AdobeStock_65437519_Preview.jpeg'); */
-        /* background-image: url('../Images_Brazuca/AAdobeStock_70282519_Preview.jpeg); */
-        /* background-image: url('../Images_Brazuca/AdobeStock_78642610_Preview.jpeg'); */
-        /* background: url('../Images_Brazuca/AdobeStock_79792348_Preview.jpeg') no-repeat fixed; */
-        /* background-image: url('../Images_Brazuca/AdobeStock_117000784_Preview.jpg'); */
-        /* background-size: 100% 100%; */
-        /* height: 650px; */
-        z-index: 0;
-        position: static;
 }
 
 .colomn-img img{

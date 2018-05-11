@@ -17,10 +17,6 @@
     background-size: 100% 100%;
 }
 
-.Ananas-section-image {
-    background-image: url('../Images_Brazuca/AdobeStock_105459827_Preview.jpeg')
-}
-
 /* COFFEE PAGE */
 .Coffee-infographic-image {
     background-image: url('../Images_Brazuca/production-infograph.png');
@@ -479,11 +475,6 @@ img {
         min-width: 0;
         height: 0;
 }
-
-.mask-layer, .mask-layer-2, .background-image-pasie-fruit {
-background-attachment: local;
-    }
-
 
 }
 @media (max-width: 797px) {

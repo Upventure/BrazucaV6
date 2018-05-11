@@ -81,12 +81,6 @@ ul, li, a, span, p {
     font-size: 40px;
 }
 
-
-.wrappper-content {
-    display: flex;
-}
-
-
 .full-width-content {
     display: flex;
     flex-direction: column;
@@ -369,15 +363,6 @@ img {
 
 }
 
-.background-image3 {
-    background: url('../Images_Brazuca/AdobeStock_91341740_Preview.jpeg') no-repeat fixed;
-    background-size: 100% auto;
-    z-index: 0;
-    position: static;
-    width: 100%;
-    height: 410px;
-}
-
 .background-image-Tagerina {
     /* background: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg') no-repeat fixed; */
     /* background: url('../Images_Brazuca/AdobeStock_67174301_Preview.jpeg')  no-repeat fixed; */
@@ -392,17 +377,6 @@ img {
     z-index: 0;
     position: static;
     /* width: 100%; */
-}
-
-.background-image-pasie-fruit {
-    /*background-image: url('../Images_Brazuca/AdobeStock_69902394_Preview.jpeg');*/
-    /* background-image: url('../Images_Brazuca/AdobeStock_69902394_Preview.jpeg'); */
-    background-size: 100% 100%;
-    height: 650px;
-    z-index: 0;
-    position: static;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 
 .background-image-Acerola{
@@ -478,14 +452,13 @@ img {
 }
 
 .background-image-home-center {
+    background: url('../Images_Brazuca/AdobeStock_68334936_Preview.jpeg') no-repeat fixed;
     /* background-image: url('../Images_Brazuca/AdobeStock_84266938_Preview.jpeg') no-repeat fixed;; */
     /* background-image: url('../Images_Brazuca/AdobeStock_136723508_Preview.jpeg')no-repeat fixed; */
     /* background-image: url('../Images_Brazuca/AdobeStock_84266938_Preview.jpeg')no-repeat fixed; */
     /* background-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg')no-repeat fixed; */
     /* background-image: url('../Images_Brazuca/AdobeStock_84266938_Preview.jpeg') no-repeat fixed; */
-      /* background: url('../Images_Brazuca/AdobeStock_84266938_Preview.jpeg') no-repeat fixed; */
-      background: url('../Images_Brazuca/AdobeStock_68334936_Preview.jpeg') no-repeat fixed;
-
+    /* background: url('../Images_Brazuca/AdobeStock_84266938_Preview.jpeg') no-repeat fixed; */
     /* background-image: url('../Images_Brazuca/AdobeStock_136723508_Preview.jpeg')no-repeat fixed; */
 
     background-size: 100% 100%;
@@ -495,19 +468,7 @@ img {
     border-top: 20px solid white;
     border-bottom: 20px solid white;
     margin-bottom: 10px;
-
-
-
-border-image: url(../Images
-
-
 }
-
-
-
-
-
-
 
 .background-image-coffee-page {
     /* background-image: url('../Images/AdobeStock_82304012_Preview-3.jpeg'); */
@@ -539,10 +500,6 @@ border-image: url(../Images
 .Tagerina-coffee-section-4 {
     background-image: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg');
 
-}
-
-.Tagerina-tabel-2 {
-    background-image: url('../Images_Brazuca/tabel-tangerina.png');
 }
 
 .mask-layer-coffee-page {

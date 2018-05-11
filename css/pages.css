@@ -47,15 +47,6 @@
     background-size: 100% 100%;
 }
 
-
-.pasie-fruit-image {
-    /* background-image: url('../Images_Brazuca/AdobeStock_106238552_Preview.jpeg'); */
-    /*background-image: url('../Images_Brazuca/AdobeStock_69902394_Preview.jpeg');*/
-    /* background-image: url('../Images_Brazuca/AdobeStock_100083918_Preview.jpeg');  */
-    min-width: 550px;
-    height: 350px;
-    background-size: 100% 100%;
-}
 /* background-image: url('../Images_Brazuca/AdobeStock_94992120_Preview.jpeg'); */
 
 
@@ -76,42 +67,8 @@
     /* background-size: 100% 100%; */
 }
 
-.Tagerina-tabel{
-    background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg');
-}
-
 /* keurmerken sectie sectie met mini logo's */
-.white-section-mini-logos{
-    display: flex;
-    flex-direction: column;
-    margin-left: auto;
-    /* justify-content: space-between;
-    /* align-items: center; */
-    /* align-content: center;  */
-}
 
-.text-section-mini-logos{
-    max-width: 400px;
-    /* justify-content: space-between;
-    align-items: center;
-    align-content: center; */
-}
-
-.mini-logo{
-    width: 200px;
-    height: 100px;
-    background-size: 100% 100%;
-    margin-top: 40px;
-}
-
-.rainforest-logo
-{
-    background-image: url('../Images_Brazuca/utz-certified.logo.png');
-}
-.logo-utz-logo
-{
-    background-image: url('../Images_Brazuca/utz-certified.logo.png');
-}
 /* einde  keurmerken sectie sectie met mini logo's */
 
 .winkel-achtergrond {
@@ -190,13 +147,6 @@
   color: white;
 
 }
-.layer-section-3-Mango{
-  background-color: rgba(34, 34, 42, 0.6);
-  color: white;
-
-}
-
-
 
 @media (max-width: 900px) {
 
