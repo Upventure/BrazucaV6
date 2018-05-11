@@ -2,12 +2,17 @@
 
 <div class="section-1 image-markthal-1">
     <div class="mask-layer mask-layer-home mask-layer-2">
-        <div class="content-hoofd-foto">
-            <h1 style="font-size:40px;">Brazuca Coffee </h1>
-            <!-- <div class="line-white"></div>
-            <p style="font-size:30px;">" Tangerina Sap"</p> -->
-            <p style="font-size:25px; margin-top:5px;" class="ondertitel"></p>
-        </div>
+      <div class="content-hoofd-foto">
+          <!-- <div class="line-white"></div>
+          <p style="font-size:30px;">" Tangerina Sap"</p> -->
+      <!-- <h1 style="font-size:30px; margin-top:20px; padding:0px;">Brazuca Coffee </h1> -->
+          <img class="" style="max-width:240px; margin-top:80px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
+        <h1 style='font-size:30px;'> <?php wp_title(); ?>  </h1>
+
+  <p style="font-size:20px; margin-top: 5px;" class="ondertitel">Bezoek de brazuca winkel <br>bij u in de buurt</p>
+
+
+      </div>
     </div>
 </div>
 
@@ -20,6 +25,18 @@
                     <!-- <div class="Brazuca-logo-image">  <img class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">      </div> -->
                     <div class="text-white-section" style="">
                         <h1>Braziliaanse delicatessen</h1>
+
+
+
+
+
+
+
+
+
+
+
+
                         <p>
                             Brazuca coffee brengt u het beste van Brazilie.
                             <br>

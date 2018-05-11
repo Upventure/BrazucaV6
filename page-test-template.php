@@ -1,24 +1,46 @@
+<?php
+/* Template Name: (test) Brazuca styles */
+?>
+
 <?php get_header(); ?>
+
+
+<style>
+.section-home-page-transparant{
+background-color: rgba(245, 251, 245, 0.51);
+opacity: 0.1;
+
+}
+.section-home-page-transparant-background{
+background-image: url('../Images_Brazuca/Menu-achtergrond2.jpg');
+background: url('../Images_Brazuca/Menu-achtergrond2.jpg');
+width: 100%;
+height: 600px;
+background-size: 100% 100%;
+}
+
+
+
+
+
+</style>
+
+
+
+
+
+
 
 <div class="section-1 image-home-1">
     <div class="mask-layer mask-layer-home mask-layer-2">
         <div class="content-hoofd-foto">
-
+            <h1 style="font-size:40px;">Brazuca Coffee </h1>
             <!-- <div class="line-white"></div>
             <p style="font-size:30px;">" Tangerina Sap"</p> -->
-
-
-        <!-- <h1 style="font-size:30px; margin-top:20px; padding:0px;">Brazuca Coffee </h1> -->
-            <img class="" style="max-width:240px; margin-top:40px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
-            <p style="font-size:20px; margin-top:5px;" class="ondertitel">
-
-Echt vers gebrande koffie en authentieke Braziliaanse delicatessen 
-
-
- <br> proeft u bij Brazuca
+            <p style="font-size:25px; margin-top:5px;" class="ondertitel">
+ Echte versgebrande koffie en autentieke braziliaanse delicatessen <br>proeft u  bij Brazuca
 
             </p>
-
         </div>
     </div>
 </div>
@@ -26,21 +48,23 @@ Echt vers gebrande koffie en authentieke Braziliaanse delicatessen 
 <div class="wrapper-top-section" style="border-top:  6px solid rgb(232, 237, 230);">
     <div class="advertisements">
 
-        <div class="section-home-page light">
+        <div class="section-home-page section-home-page-transparant light">
             <div class="flex wrapper-white-sections">
                 <div class="wrapper-white-section-section-50-50 reverse" style='align-content: space-between'>
-                    <div class="Brazuca-logo-image">  <img class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">     </div>
-
-
+                    <!-- <div class="Brazuca-logo-image">  <img class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">      </div> -->
                     <div class="text-white-section" style="">
-
-                        <h1>Het beste uit Brazilië </h1>
+                        <h1>Het beste uit brazilië    </h1>
+                        <!-- <h1>Het beste uit Brazilië </h1> -->
                         <p>
 
-                          Brazuca coffee brengt u het beste van Brazilië.   Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor verfrissende verse fruitsappen gemaakt van fruit uit de Amazone. Serveren we authentieke Braziliaanse Açia bowl gerechten om je gezondheid een boost te kunnen geven en kunt u bij ons genieten van typische Braziliaanse lekkernijen zoals onze eigen gebakken cassave broodjes.  
+                            Brazuca coffee brengt u het beste van Brazilie.
+                            <br>          <br>
+                            Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor vervrissende verse fruitsapen
+                            gemaakt van fruit uit de Amzone. Serveren we autentieke Braziliaanse Açia bowl gerechten die je  gezondheid een boost geven en kunt u bij ons genieten van typische Brazilaanse lekernijnen zoals onze eigen gebaken casave broodjes.    <br> Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
 <br><br>
-                          Toewijding en passie dat is wat je proeft: kortom echte Braziliaanse ambacht!   Gewoon tussendoor of voor de lekkere trek; eigenlijk kun je voor ieder moment wel terecht bij Brazuca. Bij Brazuca koop je ook meteen heerlijke vers gebrande koffie voor thuis. Heb je onze koffie nog niet geproefd? Kom dan snel langs in een van onze winkels! 
-
+                           Gewoon tussendoor of voor de lekkere trek; eigenlijk kun je voor ieder moment wel tercht bij Brazuca.
+                           Bij Brazuca koopt je ook meteen heerlijke versgebrande koffie voor thuis. Heb je die nog niet geproefd?
+                           Kom dan snel langs in een van onze winkels!
 
                             <br><br>
 
@@ -57,13 +81,11 @@ Echt vers gebrande koffie en authentieke Braziliaanse delicatessen 
             <div class="flex wrapper-white-sections">
                 <div class="wrapper-white-section-section-50-50 home-section">
                     <!-- <div class="image-white-section"></div>       -->
-                         <div class="section-2 image-coffee-2"></div>
+                         <div class="section-2 image-coffee-2 section-home-page-transparant-background"></div>
+                         <div class="section-home-page-transparant-background">
                     <div class="text-white-section">
                           <h1  class="header-home-page">Brazuca Koffie</h1>
                       <p style="text-align:center;">
-
-
-
                                 <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Coffee-mok.jpg" style="width:300px; height: auto; margin:auto"></p>
 
                         <p>
@@ -74,6 +96,9 @@ Echt vers gebrande koffie en authentieke Braziliaanse delicatessen 
                             <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Brazuca koffie</a>
                         </p>
                     </div>
+
+                  </div>
+
                 </div>
             </div>
         </div>
