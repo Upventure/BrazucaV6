@@ -674,6 +674,7 @@ linear-gradient(rgba(255, 255, 255, 0.93), rgba(255, 255, 255, 0.93), rgba(255, 
     list-style-type: none;
     -webkit-padding-start: 5px;
     margin: 1em;
+    font-size: small;
 }
 
 .footer a {
@@ -725,7 +726,7 @@ linear-gradient(rgba(255, 255, 255, 0.93), rgba(255, 255, 255, 0.93), rgba(255, 
 }
 
 .establishments-list ul {
-    flex-basis: 200px;
+    flex-basis: 250px;
 }
 
 .social-media {
