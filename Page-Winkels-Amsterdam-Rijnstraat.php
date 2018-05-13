@@ -1,3 +1,7 @@
+<?php
+/* Template Name: (Winkel) Rijnstraat*/
+?>
+
 <?php get_header(); ?>
 
 <div class="section-1 image-rijnstraat-1">

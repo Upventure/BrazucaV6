@@ -3,11 +3,14 @@
 <div class="section-1 image-home-1">
     <div class="mask-layer mask-layer-home mask-layer-2">
         <div class="content-hoofd-foto">
-            <img class="" style="max-width:240px; margin-top:40px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
-            <p style="font-size:20px; margin-top:5px;" class="ondertitel">
-                Echte vers gebrande koffie en authentieke Braziliaanse delicatessen 
+            <img class="" style="max-width:240px; margin-top:180px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
+            <!--<p style="font-size:20px; margin-top:5px;" class="ondertitel">-->
+               <h1 style="margin-top:0px"> Eigen gebrande koffie </h1> <br class="">
+               <p>Vruchtensappen | Acai bowl gerechten | Braziliaanse delicatessen</p>
+                 <p style="bold; font-size:17px">Koffiebar en branderij</p>
+            
                 <br>
-                proeft u bij Brazuca
+                
             </p>
         </div>
     </div>
@@ -40,7 +43,7 @@
                     <div class="section-2 image-coffee-2"></div>
                         <div class="text-white-section">
                             <h1  class="header-home-page">Brazuca Koffie</h1>
-                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Coffee-mok.jpg" style="width:300px; height: auto; margin:auto">
+                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Coffee-mok.jpg" style="width:250px; height: auto; margin:auto">
                             <p>
                             Brazuca Coffie is koffie die is gemaakt van de beste kofiiebonen uit Brazilië.
                             Bonen die wij zelf selecteren en samenstellen voor het tot stand brengen van de beste blends.
@@ -86,7 +89,7 @@
                         </a>
                         <a class="item-fruit" href="<?php bloginfo('template_url')?>/acai">
                             <div style="width: 150px; height: 150px;">
-                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Bowl-side.jpg">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Acai-side.jpg">
                             </div>
                             <h4>Açai sap</h4>
                         </a>
@@ -121,7 +124,7 @@
 
 
 <p style="text-align:center;">
-<img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/bites-side.jpg" style="width:300px; height: auto; margin:auto"></p>
+<img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/bites-side.jpg" style="width:250px; height: auto; margin:auto"></p>
 
 
 
@@ -149,8 +152,10 @@
 
                     <div class="text-white-section">
                         <h1  class="header-home-page">Açai Bowl</h1>
+
                         <p style="text-align:center;">
-                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Bowl-side.jpg'" style="width:300px; height: auto; margin:auto"></p>
+                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Bowl-side.jpg" style="width:180px; height: auto; margin:auto"></p>
+
                         <p>
                             Açai bowl is nu razend populair. Een mooi opgemaakt kommetje boordevol vitamines. Acht jaar geleden maakten wij als éérste van Amsterdam deze overheerlijke açai bowl, overgevlogen uit Brazilië.
                             <br><br>
@@ -158,7 +163,7 @@
                             In de meeste van onze winkels kunt het bestellen als ontbijt lunch of maaltijd.
                             <!-- en kan het als  als ontbijt , lunch of als maaltijd worden besteld in de meeste van onze winkels. -->
                             <br><br><br>          <br><br>  <br>
-                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="<?php bloginfo('template_url')?>/acai-bowl">Acai bowl gerechten</a>
+                            <a class="button-standard" style="padding: 5px 55px 5px 55px; text-decoration: underline" href="<?php bloginfo('template_url')?>/acai-bowl">Acai bowl gerechten</a>
                         </p>
                     </div>
                 </div>

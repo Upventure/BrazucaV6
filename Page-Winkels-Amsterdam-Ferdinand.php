@@ -1,4 +1,6 @@
-
+<?php
+/* Template Name: (Winkel) Ferdinand Bolstraat*/
+?>
 
 <?php get_header(); ?>
 
@@ -27,13 +29,13 @@
             <div class="flex wrapper-white-sections">
                 <div class="wrapper-white-section-section-50-50 reverse" style='align-content: space-between'>
                     <!-- <div class="Brazuca-logo-image">  <img class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">      </div> -->
-                    <div class="text-white-section">
-                        <h1> Verse Koffie drinken in Amsterdam </h1>
-                        <p>
-                            Verse Koffie kopen of drinken in Amsterdam kan bij Brazuca aan de Ferdinand Bolstraat in Amsterdam. Hier proef je onze eigen gebrande koffiemelanges gemaakt van de beste koffiebonen uit Brazilië. Koffie die met veel zorg is samengesteld en met passie is bereidt.
-                            <br><br>
-                            Naast koffie kopen kunt bij ons terecht voor allerlei andere Braziliaanse versproducten zoals onze bijzondere verse Amazone fruitsappen, de typisch Braziliaanse bites zoals bijvoorbeeld cassave broodjes en niet te vergeten onze voedingsrijken Acai bowl gerechten, boordevol vitamines en in heel Brazilië geroemd vanwege de energiegevende krachten. Kortom voor ieder moment van de dag kunt je terecht bij Brazuca. Wij zijn 7 dagen per week geopend 10:00 tot 20:00
-                        </p>
+                    <div class="text-white-section" style="">
+        <h1> Verse Koffie drinken in Amsterdam </h1>
+<p>
+          Verse Koffie kopen of drinken in Amsterdam kan bij Brazuca aan de Ferdinand Bolstraat in Amsterdam. Hier proef je onze eigen gebrande koffiemelanges gemaakt van de beste koffiebonen uit Brazilië. Koffie die met veel zorg is samengesteld en met passie is bereidt.
+          <br><br>
+          Naast koffie kopen kunt bij ons terecht voor allerlei andere Braziliaanse versproducten zoals onze bijzondere verse Amazone fruitsappen, de typisch Braziliaanse bites zoals bijvoorbeeld cassave broodjes en niet te vergeten onze voedingsrijken Acai bowl gerechten, boordevol vitamines en in heel Brazilië geroemd vanwege de energiegevende krachten. Kortom voor ieder moment van de dag kunt je terecht bij Brazuca. Wij zijn 7 dagen per week geopend 10:00 tot 20:00  </p>
+
                     </div>
                 </div>
             </div>

@@ -1,3 +1,7 @@
+<?php
+/* Template Name: (Winkel) Markthal*/
+?>
+
 <?php get_header(); ?>
 
 <div class="section-1 image-markthal-1">

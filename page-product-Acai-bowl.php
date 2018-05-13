@@ -14,8 +14,9 @@
           <p style="font-size:30px;">" Tangerina Sap"</p> -->
       <!-- <h1 style="font-size:30px; margin-top:20px; padding:0px;">Brazuca Coffee </h1> -->
           <img class="" style="max-width:240px; margin-top:80px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
-        <h1 style='font-size:30px;'> <?php wp_title(); ?>  </h1>
-
+        <h1 style='font-size:30px;'> Açai Bowl  </h1>
+     <p style="font-size:25px; margin-top:5px;" class="ondertitel">Açaí na tigela</p>
+       </div>
 
 
         <!-- <div class="content-hoofd-foto">

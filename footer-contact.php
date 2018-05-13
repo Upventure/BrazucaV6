@@ -51,7 +51,7 @@ function get_footer_contact($establishment_street, $extra_css_class='') {
                             echo "
                         </div>
                         <div class=\"contact-form\">
-                            "; echo do_shortcode( '[contact-form-7 id="22" title="contact-footer"]' ); echo "
+                            "; echo do_shortcode( '[contact-form-7 id="65" title="contact-footer"]' ); echo "
                         </div>
                     </div>
                     <div class=\"maps\">
