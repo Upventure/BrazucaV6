@@ -106,12 +106,12 @@ img {
 
 /* --- FULL AÇAI-BOWL IMAGES --- */
 .image-açaibowl-1 {
-    background: url('../Images_Brazuca/bowl-background.jpg') fixed;
+    background: url('../Images_Brazuca/Bowl-background.jpg') fixed;
     background-size: 100%;
 }
 
 .image-açaibowl-2 {
-    background: url('../Images_Brazuca/bowl-side.jpg');
+    background: url('../Images_Brazuca/Bowl-side.jpg');
     background-size: 100% 100%;
 }
 
@@ -266,13 +266,13 @@ img {
 
     /* --- HOMEPAGE IMAGES --- */
     .image-home-1 {
-        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background: url('../Images_Brazuca/Home-section1tablet.jpg');
         background-size: 100% 100%;
     }
 
     /* --- TABLET COFFEE IMAGES --- */
     .image-coffee-1 {
-        background: url('../Images_Brazuca/cafetorrado-tablet.jpg') fixed;
+        background: url('../Images_Brazuca/cafetorrado-tablet.jpg');
         background-size: 100%;
     }
 
@@ -283,35 +283,35 @@ img {
 
     /* ---  --- */
     .image-fruitsappen-1 {
-        background: url('../Images_Brazuca/fruitsappenoverzicht-tablet.jpg') fixed;
+        background: url('../Images_Brazuca/fruitsappenoverzicht-tablet.jpg');
         background-size: 100% 100%;
     }
 
     /* ---  --- */
     .image-winkels-1 {
-        background: url('../Images_Brazuca/Brazuca-rotterdam-tablet.jpg') fixed;
+        background: url('../Images_Brazuca/Brazuca-rotterdam-tablet.jpg');
         background-size: 100% 100%;
     }
 
     /* --- TABLET WINKELS IMAGES --- */
     .image-rijnstraat-1 {
-        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background: url('../Images_Brazuca/Home-section1tablet.jpg');
         background-size: 100%;
     }
 
     .image-ferdinand-1 {
-        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background: url('../Images_Brazuca/Home-section1tablet.jpg');
         background-size: 100%;
     }
 
     .image-markthal-1 {
-        background: url('../Images_Brazuca/Home-section1tablet.jpg') fixed;
+        background: url('../Images_Brazuca/Home-section1tablet.jpg');
         background-size: 100%;
     }
 
     /* --- TABLET ACAI-BOWL IMAGES --- */
     .image-açaibowl-1 {
-        background: url('../Images_Brazuca/bowl-background-tablet.jpg') fixed;
+        background: url('../Images_Brazuca/Bowl-background-tablet.jpg');
         background-size: 100%;
     }
 
@@ -321,7 +321,7 @@ img {
 
     /* --- TABLET BITES IMAGES --- */
     .image-bites-1 {
-        background: url('../Images_Brazuca/bites-background-full-tablet.jpg') fixed;
+        background: url('../Images_Brazuca/bites-background-full-tablet.jpg');
         background-size: 100% 100%;
     }
 
@@ -331,13 +331,13 @@ img {
     }
     /* --- TABLET ANANAS IMAGES --- */
     .image-ananas-1 {
-        background: url('../Images_Brazuca/ananas-background-tablet.jpg') fixed;
+        background: url('../Images_Brazuca/ananas-background-tablet.jpg');
         background-size: 100% 100%;
     }
 
     /* --- TABLET MANGO IMAGES --- */
     .image-Mango-1 {
-        background: url('../Images_Brazuca/Mango-tablet.jpg') fixed;
+        background: url('../Images_Brazuca/Mango-tablet.jpg');
         background-size: 100% 100%;
     }
 
@@ -348,7 +348,7 @@ img {
 
     /* --- --- */
     .image-Acerola-1 {
-        background: url('../Images_Brazuca/Acerola-section1tablet.jpg') fixed;
+        background: url('../Images_Brazuca/Acerola-section1tablet.jpg');
         background-size: 100% 100%;
     }
 
@@ -359,7 +359,7 @@ img {
 
     /* --- TABLET PASSIEVRUCHT IMAGES --- */
     .image-Passievrucht-1 {
-        background: url('../Images_Brazuca/passievrucht-tabletsection1.jpg') fixed;
+        background: url('../Images_Brazuca/passievrucht-tabletsection1.jpg');
         background-size: 100% 100%;
     }
     .image-Passievrucht-3 {
@@ -418,7 +418,7 @@ img {
 
     /* ---  --- */
     .image-açaibowl-1 {
-        background: url('../Images_Brazuca/bowl-background-mobile.jpg');
+        background: url('../Images_Brazuca/Bowl-background-mobile.jpg');
         background-size: 100% 100%;
     }
 

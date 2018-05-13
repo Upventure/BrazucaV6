@@ -86,7 +86,7 @@
                         </a>
                         <a class="item-fruit" href="<?php bloginfo('template_url')?>/acai">
                             <div style="width: 150px; height: 150px;">
-                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Acai-side.jpg">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Bowl-side.jpg">
                             </div>
                             <h4>Açai sap</h4>
                         </a>
@@ -149,10 +149,8 @@
 
                     <div class="text-white-section">
                         <h1  class="header-home-page">Açai Bowl</h1>
-
                         <p style="text-align:center;">
-                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/bowl-side.jpg'" style="width:300px; height: auto; margin:auto"></p>
-
+                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Bowl-side.jpg'" style="width:300px; height: auto; margin:auto"></p>
                         <p>
                             Açai bowl is nu razend populair. Een mooi opgemaakt kommetje boordevol vitamines. Acht jaar geleden maakten wij als éérste van Amsterdam deze overheerlijke açai bowl, overgevlogen uit Brazilië.
                             <br><br>
