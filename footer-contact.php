@@ -37,7 +37,10 @@ function get_businesshours($establishment_street) {
 get_template_part("maps");
 function get_footer_contact($establishment_street, $extra_css_class='') {
 
-
+	if      ($establishment_street == "Ds. Jan Scharpstraat") $form = do_shortcode('[contact-form-7 id="68" title="markthal"]');
+	else if ($establishment_street == "Ferdinand Bolstraat")  $form = do_shortcode( '[contact-form-7 id="65" title="ferdinand-bolstraat"]');
+	else if ($establishment_street == "Rijnstraat")           $form = do_shortcode( '[contact-form-7 id="67" title="rijnstraat"]');
+	else $form = do_shortcode( '[contact-form-7 id="65" title="ferdinand-bolstraat"]');
 
     echo "
         <div class=\"footer\" style='padding: 0; margin: 0;'>
@@ -51,7 +54,7 @@ function get_footer_contact($establishment_street, $extra_css_class='') {
                             echo "
                         </div>
                         <div class=\"contact-form\">
-                            "; echo do_shortcode( '[contact-form-7 id="65" title="contact-footer"]' ); echo "
+                            "; echo $form; echo "
                         </div>
                     </div>
                     <div class=\"maps\">

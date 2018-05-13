@@ -5,13 +5,9 @@
         <div class="content-hoofd-foto">
             <img class="" style="max-width:240px; margin-top:180px; padding:0px;"  src="<?php bloginfo('template_url')?>/Images_Brazuca/Brazuca-white.smal.png">
             <!--<p style="font-size:20px; margin-top:5px;" class="ondertitel">-->
-               <h1 style="margin-top:0px"> Eigen gebrande koffie </h1> <br class="">
-               <p>Vruchtensappen | Acai bowl gerechten | Braziliaanse delicatessen</p>
-                 <p style="bold; font-size:17px">Koffiebar en branderij</p>
-
-                <br>
-
-            </p>
+            <h1 style="margin-top:0px"> Eigen gebrande koffie </h1> <br class="">
+            <p>Vruchtensappen | Acai bowl gerechten | Braziliaanse delicatessen</p>
+            <p style="bold; font-size:17px">Koffiebar en branderij</p>
         </div>
     </div>
 </div>
