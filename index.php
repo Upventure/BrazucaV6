@@ -8,9 +8,9 @@
                <h1 style="margin-top:0px"> Eigen gebrande koffie </h1> <br class="">
                <p>Vruchtensappen | Acai bowl gerechten | Braziliaanse delicatessen</p>
                  <p style="bold; font-size:17px">Koffiebar en branderij</p>
-            
+
                 <br>
-                
+
             </p>
         </div>
     </div>
@@ -49,7 +49,7 @@
                             Bonen die wij zelf selecteren en samenstellen voor het tot stand brengen van de beste blends.
                             Iedere oogst weer bepalen wij de beste combinatie van koffiebonen voor samenstellen van onze malanges door de verschillende bonen te proefen en  Coffee farms in Brazilie te bezoeken. Door onze jarenlange ervaring en kennis van kofiebonen zijn wij in staat gebleken om hoogwaardige Brazaliaanse koffie naar Nederland te halen.
                             <br><br><br><br><br><br>
-                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="<?php bloginfo('template_url')?>/testpage">Brazuca koffie</a>
+                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="<?php bloginfo('template_url')?>/brazuca-coffee">Brazuca koffie</a>
                         </p>
                     </div>
                 </div>
@@ -63,33 +63,33 @@
                 <div style="flex: 1;">
                     <h1 class="header-home-page" style="background: rgb(107,173,111); text-align: center; padding: 10px; color: white;">Diverse tropische fruitsappen</h1>
                     <div class="multiple-items-standard">
-                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/ananas">
-                            <div style="width: 150px; height: 150px;">
+                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/ananas-sap">
+                            <div class="item-fruit-image">
                                 <img src="<?php bloginfo('template_url')?>/Images_Brazuca/ananas-side.jpg" style="width: 100%; height: 100%;">
                             </div>
                             <h4>Ananas sap</h4>
                         </a>
-                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/mango">
-                            <div style="width: 150px; height: 150px;">
-                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Mango-side.jpg">
+                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/mango-sap">
+                            <div class="item-fruit-image">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Mango-side.jpg" style="width: 100%; height: 100%;">
                             </div>
                             <h4>Mango sap</h4>
                         </a>
-                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/acerola">
-                            <div style="width: 150px; height: 150px;">
-                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Acerola-side.jpg">
+                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/acerola-sap">
+                            <div class="item-fruit-image">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Acerola-side.jpg" style="width: 100%; height: 100%;">
                             </div>
                             <h4>Acerola sap</h4>
                         </a>
-                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/passievrucht">
-                            <div style="width: 150px; height: 150px;">
-                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Passievrucht-side.jpg">
+                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/passievrucht-sap">
+                            <div class="item-fruit-image">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Passievrucht-side.jpg" style="width: 100%; height: 100%;">
                             </div>
                             <h4>Passievrucht sap</h4>
                         </a>
-                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/acai">
-                            <div style="width: 150px; height: 150px;">
-                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Acai-side.jpg">
+                        <a class="item-fruit" href="<?php bloginfo('template_url')?>/acai-bessen-sap">
+                            <div class="item-fruit-image">
+                                <img src="<?php bloginfo('template_url')?>/Images_Brazuca/Acai-side.jpg" style="width: 100%; height: 100%;">
                             </div>
                             <h4>Açai sap</h4>
                         </a>
@@ -99,44 +99,25 @@
         </div>
     </div>
 
-
-    <!-- <div class="background-image2  background-image-home-center" style="">
-        <div class="mask-layer mask-layer-home mask-layer-2">
-            <div class="content-hoofd-foto">
-                <h1  class="header-home-page" style="font-size:40px;">Brazuca Coffee </h1>
-                <p style="font-size:25px; margin-top:5px;" class="ondertitel"></p>
-            </div>
-        </div>
-    </div> -->
-
-
-
-
-
-
     <div class="advertisements">
         <div class="section-home-page section-white light">
             <div class="flex wrapper-white-sections">
                 <div class="wrapper-white-section-section-50-50">
                     <div class="section-2 image-bites-2"></div>
                     <div class="text-white-section">
-                            <h1   class="header-home-page"> Pão de queijo</h1>
+                        <h1   class="header-home-page"> Pão de queijo</h1>
 
-
-<p style="text-align:center;">
-<img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/bites-side.jpg" style="width:250px; height: auto; margin:auto"></p>
-
-
+                        <p>
+                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/bites-side.jpg" style="width:250px; height: auto; margin:auto">
+                        </p>
 
                         <p class="text-home">
-
                             Pão de queijo oftewel het cassave-kaas broodje zoals deze delicatesse bij ons bekend is, is een typische Braziliaanse lekkernij, oorspronkelijk uit de staat Minas Gerais, die ook bekend staat om zijn productie van koffie en zuivelproducten.
                             Cassavemeel wordt ook wel tapiocameel genoemd.
                             <br><br>
                             Er wordt beweerd dat het recept al bestaat sinds de achttiende eeuw, maar het broodje werd pas populair in Brazilië in de jaren 50. De pão de queijo is een van de bekendste gerechten uit de Braziliaanse keuken. Er is geen Braziliaan die de pão de queijo niet kent, en geen buitenlander die niet verliefd wordt bij de eerste hap.
                             <br><br><br><br><br><br>
                             <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="<?php bloginfo('template_url')?>/bites">Brazuca Bites</a>
-
                         </p>
                     </div>
                 </div>
@@ -154,7 +135,8 @@
                         <h1  class="header-home-page">Açai Bowl</h1>
 
                         <p style="text-align:center;">
-                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Bowl-side.jpg" style="width:180px; height: auto; margin:auto"></p>
+                            <img class='home-img' src="<?php bloginfo('template_url')?>/Images_Brazuca/Bowl-side.jpg" style="width:180px; height: auto; margin:auto">
+                        </p>
 
                         <p>
                             Açai bowl is nu razend populair. Een mooi opgemaakt kommetje boordevol vitamines. Acht jaar geleden maakten wij als éérste van Amsterdam deze overheerlijke açai bowl, overgevlogen uit Brazilië.
@@ -171,10 +153,5 @@
         </div>
     </div>
 </div>
-
-
-
-
-
 
 <?php get_footer(); ?>
