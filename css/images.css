@@ -48,7 +48,9 @@ img {
 
 /* --- HOMEPAGE IMAGES --- */
 .image-home-1 {
-    background: url('../Images_Brazuca/Home-section1full.jpg') fixed;
+    /* background: url('../Images_Brazuca/Home-section1full.jpg') fixed; */
+        background: url('../Images_Brazuca/AdobeStock_73561333_Preview.jpeg') fixed;
+/* AdobeStock_73561333_Preview.jpeg */
     background-size: 100% 100%;
 }
 
@@ -525,5 +527,14 @@ height: auto;
 @media (min-width: 700px) {
     .header-home-page {
         text-align: left;
+    }
+}
+
+
+
+@media (max-width: 600px) {
+  .mask-layer-fruit-page{
+    background: linear-gradient(rgba(11, 14, 11, 0.13), rgba(231, 240, 238, 0.01), rgba(250, 255, 254, 10));
+
     }
 }

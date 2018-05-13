@@ -43,14 +43,14 @@
 .fixed {
     top: 0;
     /* margin-top: 14px; */
-    border-bottom:  3px solid black;
-    border-top:  1px solid white;
+    /* border-bottom:  3px solid black;
+    border-top:  1px solid white; */
 /* border-image: url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg') 90 round; */
-background-color: rgba(255, 255, 255, 0.2);
-background: rgba(255, 255, 255, 0.2);
+/* background-color: rgba(255, 255, 255, 0.2);
+background: rgba(255, 255, 255, 0.2); */
 
 
- -webkit-border-image: url('../Images_Brazuca/Menu-achtergrond2.jpg')1;
+ /* -webkit-border-image: url('../Images_Brazuca/Menu-achtergrond2.jpg')1; */
 /* background-image: url('../Images_Brazuca/Menu-achtergrond2.jpg'); */
 /* border-image-source: url('../Images_Brazuca/Menu-achtergrond2.jpg')1; */
 /* background-image:  url('../Images_Brazuca/Menu-achtergrond2.jpg'); */
@@ -59,6 +59,13 @@ background: rgba(255, 255, 255, 0.2);
 /* background-image:  url('../Images_Brazuca/background-menu4.jpg'); */
 /* background-image:  url('../Images_Brazuca/background-menu5.jpg'); */
 /* background:  url('../Images_Brazuca/background-menu5.jpg'); */
+/* background-image:  url('../Images_Brazuca/Achtergrond-winkeloverzicht.jpg'); */
+background-image:  url('../Images_Brazuca/AdobeStock_83515720_Preview.jpeg');
+/* background-image:  url('../Images_Brazuca/Achtergrond-fruitsappenoverzicht.jpg'); */
+/* background-image:  url('../Images_Brazuca/AdobeStock_79792348_Preview.jpeg'); */
+
+
+
 
 width: 100%;
 height:  auto;
@@ -155,8 +162,8 @@ nav.fixed, nav.fixed-white {
     /* background: rgba(246, 247, 242, 100); */
     color: black;
     border-image: none;
-    background: rgba(255, 255, 255, 100);
-    background-color: rgba(255, 255, 255, 100);
+    /* background: rgba(255, 255, 255, 100);
+    background-color: rgba(255, 255, 255, 100); */
     border-image: none;
     background-image: none;
 
@@ -205,8 +212,10 @@ nav ul li a:hover {
 
 nav ul#menu-tweede-menu li a {
     /* color: grey; */
-    color: black;
-    /* color: rgba(255, 255, 255, 0.94); */
+    /* color: black; */
+    color: rgba(255, 255, 255, 0.94);
+
+    ---------------menu links ---------
 }
 
 nav ul#menu-tweede-menu li  ul.sub-menu li a {
@@ -241,14 +250,15 @@ ul.sub-menu {
     background-color: white;
 
     border-radius: 1px;
-    border: 10px black solid;
+    border: 10px  lightgray;
+      border: 10px  lightgray;
 
 /* border-image: url(); */
 
    /* -webkit-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round; */
-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round;
+/* border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round; */
 
-    /* color: white; */
+    color: white;
     color: black;
     top: 81px;
     /* top: 85px; */

@@ -59,6 +59,16 @@ function create_widget( $name, $id, $description )
     ));
 }
 
+
+add_filter( 'wp_title', function( $title )
+{
+    return trim( $title );
+} );
+
+
+
+
+
 /* --- DATABASE FUNCTIONS --- */
 
 function get_establishments() {
