@@ -25,9 +25,9 @@
                         <div class="text-white-section" style="">
                             <h1>Het beste uit Brazilië </h1>
                             <p>
-                                Brazuca coffee brengt u het beste van Brazilië.   Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor verfrissende verse fruitsappen gemaakt van fruit uit de Amazone. Serveren we authentieke Braziliaanse Açia bowl gerechten om je gezondheid een boost te kunnen geven en kunt u bij ons genieten van typische Braziliaanse lekkernijen zoals onze eigen gebakken cassave broodjes.  
+                                Brazuca coffee brengt u het beste van Brazilië. Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor verfrissende verse fruitsappen gemaakt van fruit uit de Amazone. Serveren we authentieke Braziliaanse Açia bowl gerechten om je gezondheid een boost te kunnen geven en kunt u bij ons genieten van typische Braziliaanse lekkernijen zoals onze eigen gebakken cassave broodjes.
                                 <br><br>
-                                Toewijding en passie dat is wat je proeft: kortom echte Braziliaanse ambacht!   Gewoon tussendoor of voor de lekkere trek; eigenlijk kun je voor ieder moment wel terecht bij Brazuca. Bij Brazuca koop je ook meteen heerlijke vers gebrande koffie voor thuis. Heb je onze koffie nog niet geproefd? Kom dan snel langs in een van onze winkels! 
+                                Toewijding en passie dat is wat je proeft: kortom echte Braziliaanse ambacht! Gewoon tussendoor of voor de lekkere trek; eigenlijk kun je voor ieder moment wel terecht bij Brazuca. Bij Brazuca koop je ook meteen heerlijke vers gebrande koffie voor thuis. Heb je onze koffie nog niet geproefd? Kom dan snel langs in een van onze winkels! 
                             </p>
                         </div>
                     </div>
